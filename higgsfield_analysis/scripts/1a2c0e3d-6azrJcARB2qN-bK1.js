@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="5ed5650f-0738-5c67-8c5d-0abc22ca1aeb")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Dy as t,My as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function r(e){var t;let n=e==null?void 0:e.trim().match(/^(\d+(?:\.\d+)?)(?::(\d+(?:\.\d+)?))?$/);if(!n)return null;let r=Number(n[1])/Number((t=n[2])==null?1:t);return Number.isFinite(r)&&r>0?r:null}function i(){return n(),null}function a(e,t){return t?e.map(e=>e.kind===`image`?e:{...e,width:Math.round(t*1080),height:1080}):e}var o;function s(){return(s=e((()=>{t(),o=`player-ratio`})))()}export{a,i,s as n,r,o as t};
+//# debugId=5ed5650f-0738-5c67-8c5d-0abc22ca1aeb
+
+//# chunkId=5ed5650f-0738-5c67-8c5d-0abc22ca1aeb

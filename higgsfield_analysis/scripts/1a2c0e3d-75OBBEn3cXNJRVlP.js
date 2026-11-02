@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b63ef2f2-86b5-5893-84d1-fb873012c98a")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){i=e}function n(e){i===e&&(i=null)}function r(){if(!i)throw Error(`Video editor product runtime is not configured`);return i}var i;function a(){return(a=e((()=>{i=null})))()}export{a as i,t as n,r,n as t};
+//# debugId=b63ef2f2-86b5-5893-84d1-fb873012c98a
+
+//# chunkId=b63ef2f2-86b5-5893-84d1-fb873012c98a

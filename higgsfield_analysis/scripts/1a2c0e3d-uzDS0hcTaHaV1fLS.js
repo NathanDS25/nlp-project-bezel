@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="4d22ed7f-308e-5f0f-8fee-c4ec6dfcb936")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{Ah as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{hd as r}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{c as i,s as a}from"./1a2c0e3d-51m92g83B7dGKUc2.js";function o(){let{getToken:e,isLoaded:t,isSignedIn:n}=r();return{auth:(0,s.useMemo)(()=>({getToken:()=>i(e)}),[e]),isLoaded:t,isSignedIn:n,isReady:!!(t&&n),isSignedOut:!!(t&&n===!1)}}var s;function c(){return(c=e((()=>{n(),s=t(),a()})))()}export{o as n,c as t};
+//# debugId=4d22ed7f-308e-5f0f-8fee-c4ec6dfcb936
+
+//# chunkId=4d22ed7f-308e-5f0f-8fee-c4ec6dfcb936

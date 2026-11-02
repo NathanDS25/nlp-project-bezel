@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="0f988608-11a2-52e2-9380-2b4d20f10c8b")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){let t=e.startsWith(`/`)?e:`/${e}`;return new URL(`${n}${t}`)}var n,r;function i(){return(i=e((()=>{n=`https://fnf-api-gw.higgsfield.ai/fnf-notification`,r=t(`/notifications/stream`)})))()}export{t as n,r,i as t};
+//# debugId=0f988608-11a2-52e2-9380-2b4d20f10c8b
+
+//# chunkId=0f988608-11a2-52e2-9380-2b4d20f10c8b

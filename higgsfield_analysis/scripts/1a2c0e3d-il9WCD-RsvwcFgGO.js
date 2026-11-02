@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="0cecadd6-b4e8-5900-ab06-8dba324e1c7e")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{aC as t,tC as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";async function r(e,t=`video.mp4`){let r;for(let n=0;n<2;n++)try{let n=await fetch(e);if(!n.ok)throw Error(`Trim source download failed with ${n.status}`);let r=await n.blob();return new File([r],t,{type:r.type||`video/mp4`})}catch(e){r=e}throw n(r,{extra:{trigger:`video-trim-source-download`,url:e}}),r}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# debugId=0cecadd6-b4e8-5900-ab06-8dba324e1c7e
+
+//# chunkId=0cecadd6-b4e8-5900-ab06-8dba324e1c7e

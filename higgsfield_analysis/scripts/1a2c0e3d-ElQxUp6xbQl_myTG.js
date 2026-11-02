@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="4257d4a4-41a9-58f2-a4d3-49f17192b7b3")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){return(e==null?void 0:e.type)===`discount`?{chase_offer_type:`discount`,chase_savings:e.savings,chase_amount_without_offer:e.amount_without_offer}:(e==null?void 0:e.type)===`bonus`?{chase_offer_type:`bonus`,chase_bonus_credits:e.bonus_credits}:{}}function n(){return(n=e((()=>{})))()}export{n,t};
+//# debugId=4257d4a4-41a9-58f2-a4d3-49f17192b7b3
+
+//# chunkId=4257d4a4-41a9-58f2-a4d3-49f17192b7b3

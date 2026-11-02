@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="ebc97f54-ca8a-5918-8857-e9070e9a730c")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";function n(){return(0,r.use)(i)}var r,i;function a(){return(a=e((()=>{r=t(),i=(0,r.createContext)(`genjutsu`)})))()}export{a as n,n as r,i as t};
+//# debugId=ebc97f54-ca8a-5918-8857-e9070e9a730c
+
+//# chunkId=ebc97f54-ca8a-5918-8857-e9070e9a730c

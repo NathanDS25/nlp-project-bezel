@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Minimalist Monoline Frame -->
+  <rect x="8" y="8" width="84" height="84" rx="2" stroke="#000000" stroke-width="3" fill="#FFFFFF"/>
+  <!-- Minimalist Architectural Crosshair Aperture -->
+  <line x1="8" y1="50" x2="36" y2="50" stroke="#000000" stroke-width="2.5"/>
+  <line x1="64" y1="50" x2="92" y2="50" stroke="#000000" stroke-width="2.5"/>
+  <line x1="50" y1="8" x2="50" y2="36" stroke="#000000" stroke-width="2.5"/>
+  <line x1="50" y1="64" x2="50" y2="92" stroke="#000000" stroke-width="2.5"/>
+  <!-- Central Precision Center -->
+  <rect x="42" y="42" width="16" height="16" fill="#000000"/>
+</svg>

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="7be74d22-6528-5341-9d90-c0684a3276cf")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Gt as t,Kt as n}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{vp as r,yp as i}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{r as a,t as o}from"./1a2c0e3d-cauOgsBoU0i_DZiS.js";import{n as s,r as c}from"./1a2c0e3d-XsWALgar3ZaIHZNq.js";function l(){let e=i(),t=c();return(0,u.useEffect)(()=>{t||e({to:`/supercomputer`,search:{incognito:1},replace:!0})},[t,e]),t?(0,d.jsx)(o,{chatId:t,isTemporary:!0}):null}var u,d;function f(){return(f=e((()=>{a(),s(),r(),u=n(),d=t()})))()}export{f as n,l as t};
+//# debugId=7be74d22-6528-5341-9d90-c0684a3276cf
+
+//# chunkId=7be74d22-6528-5341-9d90-c0684a3276cf

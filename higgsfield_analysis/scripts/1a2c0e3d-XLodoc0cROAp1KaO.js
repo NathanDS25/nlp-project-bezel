@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="1c8076c4-867c-5739-a4b1-220ddd8a24ab")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e,t){switch(e){case`personal`:return`personal-discount`;case`special`:return t?`free-trial-offer`:`plans-offer`;case`chase`:return`extra-discount`}}function n(e){return e!==null&&e>Date.now()}function r(){return(r=e((()=>{})))()}export{n,t as r,r as t};
+//# debugId=1c8076c4-867c-5739-a4b1-220ddd8a24ab
+
+//# chunkId=1c8076c4-867c-5739-a4b1-220ddd8a24ab

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="edd0be50-4db4-5376-97af-3f85d366ca9f")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{S_ as t,w_ as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function r(e){return[a,e]}function i(e,n=t()){n.setQueryData(r(e.id),e)}var a;function o(){return(o=e((()=>{n(),a=`viral-hub-recreate-job`})))()}export{o as n,r,i as t};
+//# debugId=edd0be50-4db4-5376-97af-3f85d366ca9f
+
+//# chunkId=edd0be50-4db4-5376-97af-3f85d366ca9f

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="d9b4c222-a324-5366-8eab-c5338ff5fe33")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{_C as t,gC as n,hC as r}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function i(e={}){var t;return{inputImage:(t=e.inputImage)==null?null:t}}var a,o;function s(){return(s=e((()=>{t(),a=n(r({formId:`hf:application:image-background-remover`,createFormFn:i})),o=a.store})))()}export{o as n,s as t};
+//# debugId=d9b4c222-a324-5366-8eab-c5338ff5fe33
+
+//# chunkId=d9b4c222-a324-5366-8eab-c5338ff5fe33

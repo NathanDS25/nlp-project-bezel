@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="0c49a6c6-5756-500c-830a-511738bad498")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{cm as t,sm as n}from"./1a2c0e3d-mk3R8kDwGNHAPqvp.js";function r(e,t){e.setData(a,JSON.stringify(t))}function i(e){try{let n=JSON.parse(e.getData(a));return!t(n==null?void 0:n.chatId)||typeof(n==null?void 0:n.title)!=`string`?null:{chatId:n.chatId,title:n.title}}catch(e){return null}}var a;function o(){return(o=e((()=>{n(),a=`application/x-higgsfield-agent-chat`})))()}export{r as i,o as n,i as r,a as t};
+//# debugId=0c49a6c6-5756-500c-830a-511738bad498
+
+//# chunkId=0c49a6c6-5756-500c-830a-511738bad498

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="889fffc6-ae8a-5344-b657-65730f5ba928")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Lv as t,Xv as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{Fy as r,zy as i}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function a(e=`/`,t){let i=n(`/auth`);return i.searchParams.set(`rp`,e),t&&i.searchParams.set(r,t),`${i.pathname}${i.search}`}function o(e=`/`,t){let i=n(`/auth/sign-in`);return i.searchParams.set(`rp`,e),t&&i.searchParams.set(r,t),`${i.pathname}${i.search}`}function s(){return(s=e((()=>{t(),i()})))()}export{o as n,s as r,a as t};
+//# debugId=889fffc6-ae8a-5344-b657-65730f5ba928
+
+//# chunkId=889fffc6-ae8a-5344-b657-65730f5ba928

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="46fa78be-0d4f-576b-a880-e26b88fe6630")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{i as t,n,r,t as i}from"./1a2c0e3d-SLiJN_gQbiHt0WGR.js";function a(){return r(c)}function o(e){t(c,e)}function s(){i(c)}var c;function l(){return(l=e((()=>{n(),c=`supercomputer:incognito-chat-id`})))()}export{o as i,l as n,a as r,s as t};
+//# debugId=46fa78be-0d4f-576b-a880-e26b88fe6630
+
+//# chunkId=46fa78be-0d4f-576b-a880-e26b88fe6630

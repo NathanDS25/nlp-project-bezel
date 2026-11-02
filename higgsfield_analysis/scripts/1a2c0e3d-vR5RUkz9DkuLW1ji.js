@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b9259c4f-ed70-5b35-ad94-69ab202bd829")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{a as t,n,r}from"./1a2c0e3d-AIncs0mZVpaNrpHK.js";import{i,n as a}from"./1a2c0e3d-znMx-ZsGOIBLpKNr.js";import{u as o,v as s}from"./1a2c0e3d-y2sI2AoyE4poBwmF.js";function c(e,t,i=!1,s=1,c=`motion-control`,l=`genjutsu`){if(!n.some(t=>t===e))return null;let u=o(a(c,l),e);return!u||t==null||!Number.isFinite(t)||t<=0||c===`replace-objects`&&(t<4||t>30)?null:r(t,c)*(i?u.originalCostPerSecond:u.costPerSecond)*s}function l(){return(l=e((()=>{s(),t(),i()})))()}export{l as n,c as t};
+//# debugId=b9259c4f-ed70-5b35-ad94-69ab202bd829
+
+//# chunkId=b9259c4f-ed70-5b35-ad94-69ab202bd829

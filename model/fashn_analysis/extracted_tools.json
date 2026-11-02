@@ -1,0 +1,44 @@
+{
+  "tools": {
+    "packshot": {
+      "label": "Packshot",
+      "surface": "studio",
+      "file": "1v44ut35pt01e.js"
+    },
+    "edit": {
+      "label": "Edit",
+      "surface": "shared",
+      "file": "1v44ut35pt01e.js"
+    },
+    "reframe": {
+      "label": "Reframe",
+      "surface": "studio",
+      "file": "1v44ut35pt01e.js"
+    }
+  },
+  "endpoints": [
+    "/api/agent/ticket",
+    "https://fashn.ai/api/changelog",
+    "https://fashn.ai/changelog",
+    "https://fashn.ai/email",
+    "https://fashn.ai/legal/privacy-policy",
+    "https://fashn.ai/legal/terms-of-service",
+    "https://github.com/syntax-tree/hast-util-to-jsx-runtime",
+    "https://help.fashn.ai",
+    "https://help.fashn.ai/legal-and-support/troubleshooting/enable-hardware-acceleration",
+    "https://imgt.fashn.ai/image",
+    "https://static.fashn.ai/",
+    "https://static.fashn.ai/app/agent-color-item.webp",
+    "https://static.fashn.ai/app/agent-create-model.webp",
+    "https://static.fashn.ai/app/agent-product.webp",
+    "https://static.fashn.ai/app/agent-try-on-item.webp",
+    "https://static.fashn.ai/app/agent-try-on-model.webp",
+    "https://static.fashn.ai/app/end-image-cta-labeled.webp",
+    "https://static.fashn.ai/app/errors/moderation.webp",
+    "https://static.fashn.ai/app/errors/out-of-credits.png",
+    "https://static.fashn.ai/app/errors/overload.png",
+    "https://static.fashn.ai/app/errors/timeout.png",
+    "https://static.fashn.ai/app/errors/too-many.png",
+    "https://static.fashn.ai/app/errors/upgrade.png"
+  ]
+}

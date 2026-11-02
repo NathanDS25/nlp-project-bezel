@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="ea57e3b4-e32e-5a64-a03c-093c5e11e7be")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Lv as t,Sv as n,vv as r,xv as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{hy as a,my as o}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";async function s(e,t){o();let a=r(`/chains/game-character-creator`);return fetch(a,{method:`POST`,headers:n(i(e)),body:JSON.stringify({params:t}),credentials:`include`})}function c(){return(c=e((()=>{a(),t()})))()}export{s as n,c as t};
+//# debugId=ea57e3b4-e32e-5a64-a03c-093c5e11e7be
+
+//# chunkId=ea57e3b4-e32e-5a64-a03c-093c5e11e7be

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="81e40c20-84e1-58a5-b635-354614f46c55")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n;function r(){return(r=e((()=>{t=`asdk_app_6a3293e129088191abf0875820e839da`,n=`https://chatgpt.com/plugins/plugin_${t}`})))()}export{n,r,t};
+//# debugId=81e40c20-84e1-58a5-b635-354614f46c55
+
+//# chunkId=81e40c20-84e1-58a5-b635-354614f46c55

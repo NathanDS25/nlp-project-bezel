@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="21f16938-4336-546e-be4f-a71094ea30ea")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r,i,a,o,s,c,l,u,d;function f(){return(f=e((()=>{t=`/audio/speech-to-text/openai-token`,n=`wss://api.openai.com/v1/realtime`,r=24e3,i=1e4,a=3e5,o=15e3,s=2e4,c=4e3,l=8e3,u=1e6,d=1e4})))()}export{a,r as c,o as d,f,i,t as l,c as n,d as o,u as r,s,l as t,n as u};
+//# debugId=21f16938-4336-546e-be4f-a71094ea30ea
+
+//# chunkId=21f16938-4336-546e-be4f-a71094ea30ea

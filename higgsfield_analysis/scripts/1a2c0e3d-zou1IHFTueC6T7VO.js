@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="9d521319-49f8-5b44-9908-b20f35920ea3")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Gt as t,Kt as n}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";function r({value:e,children:t}){return(0,s.jsx)(c,{value:e,children:t})}function i(){return(0,o.use)(c)}function a({children:e,initialRoute:t}){let[n,r]=(0,o.useState)(t==null?{type:`root`}:t),i=(0,o.useCallback)(e=>{r(e)},[]),a=(0,o.useMemo)(()=>({route:n,setRoute:i}),[n,i]);return(0,s.jsx)(c,{value:a,children:e})}var o,s,c;function l(){return(l=e((()=>{o=n(),s=t(),c=(0,o.createContext)(null)})))()}export{i,a as n,l as r,r as t};
+//# debugId=9d521319-49f8-5b44-9908-b20f35920ea3
+
+//# chunkId=9d521319-49f8-5b44-9908-b20f35920ea3

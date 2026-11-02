@@ -1,0 +1,127 @@
+{
+  "service": "Buble AI",
+  "endpoint": "https://buble.ai/virtual-try-on",
+  "api_route": "/api/ai/generate",
+  "default_model": "openai/gpt-image-2",
+  "sub_mode_id": "image_to_image",
+  "inputs": {
+    "person_image": {
+      "role": "person_to_keep",
+      "required": true,
+      "max_size_mb": 10,
+      "formats": ["image/jpeg", "image/png", "image/webp"],
+      "description": "Upload a clear full-body or half-body photo of the person."
+    },
+    "outfit_reference_image": {
+      "role": "garment_or_outfit_reference",
+      "required": true,
+      "max_size_mb": 10,
+      "formats": ["image/jpeg", "image/png", "image/webp"],
+      "description": "Upload a garment product image, flat lay, or another model wearing the outfit."
+    }
+  },
+  "controls": {
+    "garment_category": {
+      "name": "Garment Scope",
+      "type": "select",
+      "default": "full_visible_outfit",
+      "options": [
+        {
+          "label": "Full visible outfit",
+          "value": "full_visible_outfit",
+          "prompt_injection": "replace the full visible outfit while respecting natural layering"
+        },
+        {
+          "label": "Top / jacket",
+          "value": "upper_body",
+          "prompt_injection": "replace only the upper-body garment such as top, shirt, sweater, hoodie, blazer, or jacket"
+        },
+        {
+          "label": "Pants / skirt",
+          "value": "lower_body",
+          "prompt_injection": "replace only the lower-body garment such as trousers, jeans, shorts, or skirt"
+        },
+        {
+          "label": "Dress / one-piece",
+          "value": "dress_or_one_piece",
+          "prompt_injection": "replace the outfit as a dress, jumpsuit, robe, or other one-piece garment"
+        },
+        {
+          "label": "Layer / accessory",
+          "value": "accessories_layer",
+          "prompt_injection": "add or replace the visible outer layer or clothing accessories without changing the base body shape"
+        }
+      ]
+    },
+    "background_mode": {
+      "name": "Background & Lighting Mode",
+      "type": "buttons",
+      "default": "keep_original",
+      "options": [
+        {
+          "label": "Keep",
+          "value": "keep_original",
+          "prompt_injection": "keep the original background, perspective, and lighting environment"
+        },
+        {
+          "label": "Studio",
+          "value": "clean_studio",
+          "prompt_injection": "use a clean neutral studio background while preserving the person pose and realistic shadows"
+        }
+      ]
+    },
+    "reference_type": {
+      "name": "Reference Type",
+      "type": "buttons",
+      "default": "garment_or_outfit",
+      "advanced_only": true,
+      "options": [
+        {
+          "label": "Auto",
+          "value": "garment_or_outfit",
+          "prompt_injection": "detect whether the reference is a standalone garment, a product photo, or an outfit worn by another model"
+        },
+        {
+          "label": "Garment",
+          "value": "flat_lay_garment",
+          "prompt_injection": "use the reference as a standalone garment or product photo"
+        },
+        {
+          "label": "Model Outfit",
+          "value": "model_outfit",
+          "prompt_injection": "use only the clothing from the target model image, not the model identity or pose"
+        }
+      ]
+    },
+    "fit_style": {
+      "name": "Fit Style",
+      "type": "buttons",
+      "default": "natural_fit",
+      "advanced_only": true,
+      "options": [
+        {
+          "label": "Natural",
+          "value": "natural_fit",
+          "prompt_injection": "natural everyday fit with realistic fabric behavior"
+        },
+        {
+          "label": "Catalog",
+          "value": "tailored_catalog",
+          "prompt_injection": "clean catalog-ready fit with crisp garment details and balanced proportions"
+        },
+        {
+          "label": "Editorial",
+          "value": "editorial_styling",
+          "prompt_injection": "polished fashion editorial styling while keeping the same person and pose"
+        }
+      ]
+    },
+    "custom_direction": {
+      "name": "Extra Direction",
+      "type": "textarea",
+      "default": "Keep the final result realistic and do not alter the face.",
+      "placeholder": "Example: keep the shoes unchanged, make the jacket slightly oversized."
+    }
+  },
+  "master_prompt_template": "Edit the uploaded person photo using the outfit reference image. The first uploaded image is the person to keep. The second uploaded image is the garment, clothing item, or target-model outfit reference. Reference type: {{vars.reference_type}}. Garment scope: {{vars.garment_category}}. Fit direction: {{vars.fit_style}}. Background direction: {{vars.background_mode}}. Additional direction: {{custom_direction}} Preserve the person identity, face, facial features, skin tone, hairstyle, expression, body shape, pose, camera angle, and original photo realism. Replace only the visible clothing in the selected garment scope. Transfer the reference outfit color, pattern, material, texture, silhouette, neckline, sleeves, length, buttons, logos or text, accessories when relevant, and layering. If the reference image contains another model, use only that model clothing or outfit as the source; do not copy the reference model identity, face, pose, or background. Preserve non-clothing objects, and non-clothing areas unchanged unless the background direction explicitly asks for a clean studio background. Output one photorealistic virtual try-on image suitable for ecommerce preview, styling review, wardrobe planning, or social shopping."
+}

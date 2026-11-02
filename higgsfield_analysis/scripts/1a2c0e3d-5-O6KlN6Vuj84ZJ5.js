@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e2d2d550-7310-58db-94e7-7cf00e453cf3")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{n as t,t as n}from"./1a2c0e3d-g8A3W5Oo6nUTIx3Q.js";function r(e){return{brandId:e.brand_id,products:[{id:e.id,name:e.display_name,imageUrl:n(e)}],includeBrand:!1}}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# debugId=e2d2d550-7310-58db-94e7-7cf00e453cf3
+
+//# chunkId=e2d2d550-7310-58db-94e7-7cf00e453cf3

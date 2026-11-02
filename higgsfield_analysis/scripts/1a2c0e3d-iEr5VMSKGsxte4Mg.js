@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="d769b19a-1a86-5fc0-9e52-e0be07ffa91b")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{lf as n,uf as r}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{F as i,P as a}from"./1a2c0e3d-wd6Fz8LCMT_9qhHG.js";import{T as o,k as s}from"./1a2c0e3d-RhjKysipFkD49diX.js";import{U as c,W as l}from"./1a2c0e3d-jsgjO8ZI4essNL-I.js";function u(e){let t=r();(0,d.useEffect)(()=>{if(!e)return;o.patch(t,e,{isRead:!0});let n=c();n&&i(n,e).catch(()=>{})},[e,t])}var d;function f(){return(f=e((()=>{s(),a(),l(),n(),d=t()})))()}export{u as n,f as t};
+//# debugId=d769b19a-1a86-5fc0-9e52-e0be07ffa91b
+
+//# chunkId=d769b19a-1a86-5fc0-9e52-e0be07ffa91b

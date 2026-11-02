@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="badf3452-c83e-5499-a286-1c0a0262e23f")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{l as t,o as n}from"./1a2c0e3d-nOeX903lWPrzHXEd.js";import{n as r,t as i}from"./1a2c0e3d-TvBdCCuTkvygV7PS.js";import{n as a,t as o}from"./1a2c0e3d-7NGWi4ptzLIIEO9V.js";var s;function c(){return(c=e((()=>{t(),r(),a(),s=i({feature:`video`,jobSet:o,mutationKey:[`job-set-video-voice-change`],fnfJob:`voice_change_merge`,onOptimisticUpdate:(e,t)=>{var r;n(e,(r=t==null?void 0:t.job_sets)==null?[]:r)}})})))()}export{s as n,c as t};
+//# debugId=badf3452-c83e-5499-a286-1c0a0262e23f
+
+//# chunkId=badf3452-c83e-5499-a286-1c0a0262e23f

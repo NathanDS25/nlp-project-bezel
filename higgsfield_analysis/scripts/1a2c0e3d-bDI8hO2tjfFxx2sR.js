@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="3097548f-94df-56cb-87a9-421c0a916e95")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){if(typeof e!=`string`)return null;try{let t=new URL(e);return t.protocol===`https:`&&!t.username&&!t.password?t:null}catch(e){return null}}function n(e,n=`media`){let r=t(e);return r&&(i.has(r.origin)||n===`author-avatar`&&r.origin===`https://img.clerk.com`)?e==null?null:e:null}var r,i,a;function o(){return(o=e((()=>{i=new Set([`https://static.higgsfield.ai`,`https://cdn.higgsfield.ai`]),a=(r=t(`https://static.higgsfield.ai`))==null?void 0:r.origin,a&&i.add(a)})))()}export{o as n,n as t};
+//# debugId=3097548f-94df-56cb-87a9-421c0a916e95
+
+//# chunkId=3097548f-94df-56cb-87a9-421c0a916e95

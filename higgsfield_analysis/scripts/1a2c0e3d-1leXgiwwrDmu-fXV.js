@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="2b517df5-d76a-5d83-b089-240bb74f082a")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n;function r(){return(r=e((()=>{t=new URL(`https://claude.ai/customize/connectors`),t.search=new URLSearchParams({modal:`add-custom-connector`,connectorName:`Higgsfield`,connectorUrl:`https://mcp.higgsfield.ai/mcp`}).toString(),n=t.href})))()}export{r as n,n as t};
+//# debugId=2b517df5-d76a-5d83-b089-240bb74f082a
+
+//# chunkId=2b517df5-d76a-5d83-b089-240bb74f082a

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="2ac8f0b0-ab3d-5734-b716-d746652ccbba")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(){let e=0;for(let t of o.values())t!==null&&(e=t);e!==c&&(c=e,s.forEach(e=>e()))}function n(e){return s.add(e),()=>{s.delete(e)}}function r(){return c}function i(){return 0}function a(){let e=Symbol(`mobile-toast-composer-height`);return o.set(e,null),{publish(n){if(!o.has(e))return;let r=Math.round(n);o.set(e,Number.isFinite(r)&&r>0?r:null),t()},dispose(){o.delete(e),t()}}}var o,s,c;function l(){return(l=e((()=>{o=new Map,s=new Set,c=0})))()}export{n as a,a as i,i as n,l as r,r as t};
+//# debugId=2ac8f0b0-ab3d-5734-b716-d746652ccbba
+
+//# chunkId=2ac8f0b0-ab3d-5734-b716-d746652ccbba

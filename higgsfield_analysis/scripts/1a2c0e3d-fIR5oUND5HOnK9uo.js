@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="8bd467e0-0b89-5e81-9e80-857a6fead957")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{yf as t}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function n(e){e===a?o.set(`1`):o.remove()}function r(){o.remove()}function i(){return o.get()===`1`}var a,o;function s(){return(s=e((()=>{a=`hf-mult-motion-control`,o=t(`hf:genjutsu-picked-from-video-model-list`,{session:!0})})))()}export{n as i,s as n,i as r,r as t};
+//# debugId=8bd467e0-0b89-5e81-9e80-857a6fead957
+
+//# chunkId=8bd467e0-0b89-5e81-9e80-857a6fead957

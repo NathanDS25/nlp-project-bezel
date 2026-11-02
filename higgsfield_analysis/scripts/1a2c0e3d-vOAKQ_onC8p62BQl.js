@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b70ef0d4-da51-5782-a160-30b3f48bd08a")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{D_ as t,E_ as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function r(e){return t(e)?e:`https://static.higgsfield.ai/public/noise.svg`}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# debugId=b70ef0d4-da51-5782-a160-30b3f48bd08a
+
+//# chunkId=b70ef0d4-da51-5782-a160-30b3f48bd08a

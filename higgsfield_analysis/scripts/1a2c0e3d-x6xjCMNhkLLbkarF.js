@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="1c8aff1b-b280-5ef4-bc58-e7c5431ef053")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{dg as t,ug as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{r}from"./1a2c0e3d-QGmtYR7s0hWfbRCw.js";import{n as i,t as a}from"./1a2c0e3d-w_DmLLhJrnm4yWEX.js";var o;function s(){return(s=e((()=>{a(),n(),o=r({name:`product:submit-errors`,lifecycle:{mapError:({error:e})=>((e instanceof TypeError||typeof e==`object`&&e&&(`status`in e&&e.status===423||`code`in e&&(e.code===`network`||e.code===`card_verification_required`)))&&t(),i(e))}})})))()}export{o as n,s as t};
+//# debugId=1c8aff1b-b280-5ef4-bc58-e7c5431ef053
+
+//# chunkId=1c8aff1b-b280-5ef4-bc58-e7c5431ef053

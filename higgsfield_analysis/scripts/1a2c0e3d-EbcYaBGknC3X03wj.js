@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="0649ec39-1527-5cba-8b80-d7d1b0b9c7fc")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Lv as t,lv as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";var r;function i(){return(i=e((()=>{t(),r=class e extends n{constructor(...e){super(...e),this.body=null}static fromResponse(t){return new e(`Unknown client error has occurred`,t)}static async assert(t){if(n.isClientError(t)){let n=e.fromResponse(t),r=await t.clone().json().catch(()=>null);throw r&&(n.body=r,n.addResponse(r)),n}}}})))()}export{i as n,r as t};
+//# debugId=0649ec39-1527-5cba-8b80-d7d1b0b9c7fc
+
+//# chunkId=0649ec39-1527-5cba-8b80-d7d1b0b9c7fc

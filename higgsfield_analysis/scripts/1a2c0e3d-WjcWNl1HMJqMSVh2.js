@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="1ad4e681-50c2-5d03-ae6a-26d15b7c3215")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{Ah as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{hd as r}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{dv as i,pv as a}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function o(){let{userId:e}=r();return!e}function s(){return(s=e((()=>{n()})))()}function c(){let e=a();return(0,l.useCallback)(()=>{e({source:`signuppush`,mode:`sign-up`})},[e])}var l;function u(){return(u=e((()=>{i(),l=t()})))()}export{o as i,c as n,s as r,u as t};
+//# debugId=1ad4e681-50c2-5d03-ae6a-26d15b7c3215
+
+//# chunkId=1ad4e681-50c2-5d03-ae6a-26d15b7c3215

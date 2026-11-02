@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="acd6aaa7-6bc6-56c1-b8fa-9331e27a3ad0")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{_C as t,gC as n,hC as r}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function i(e={}){var t,n,r;return{inputVideo:(t=e.inputVideo)==null?null:t,startTime:(n=e.startTime)==null?0:n,endTime:(r=e.endTime)==null?0:r}}var a,o;function s(){return(s=e((()=>{t(),a=n(r({formId:`hf:application:sticker-matchcut`,createFormFn:i})),o=a.store})))()}export{o as n,s as t};
+//# debugId=acd6aaa7-6bc6-56c1-b8fa-9331e27a3ad0
+
+//# chunkId=acd6aaa7-6bc6-56c1-b8fa-9331e27a3ad0

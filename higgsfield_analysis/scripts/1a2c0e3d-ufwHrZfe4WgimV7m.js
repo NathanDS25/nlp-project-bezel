@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="1d7d46e5-706e-5331-8d1f-3fbb51e66f72")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{a as t,i as n}from"./1a2c0e3d-51m92g83B7dGKUc2.js";function r(e,n=null,r=`on`){var i;let a=e.prompt.trim(),o=(i=e.referenceUrls)==null?void 0:i.map(e=>({url:e,role:`style`}));return{product_ids:e.productIds,include_brand:e.includeBrand===!0,total:e.batchSize,objective:null,...a?{prompt:a}:{},...o&&o.length>0?{images:o}:{},...r===`off`?{params:{product_pictures:`off`}}:{},...n?{scope_id:n}:{},idempotencyKey:t(`generate`)}}function i(){return(i=e((()=>{n()})))()}export{i as n,r as t};
+//# debugId=1d7d46e5-706e-5331-8d1f-3fbb51e66f72
+
+//# chunkId=1d7d46e5-706e-5331-8d1f-3fbb51e66f72

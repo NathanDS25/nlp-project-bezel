@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="50b956fc-0ecb-5fee-b6c3-6ce7b8119ce7")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Ah as t}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{bM as n,wM as r}from"./1a2c0e3d-mk3R8kDwGNHAPqvp.js";import{Dd as i}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{c as a,r as o}from"./1a2c0e3d-rFIBXf4pRwUc9lr_.js";import{a as s,l as c}from"./1a2c0e3d-6tz8eoAesL2-p00w.js";function l(){let{isLoaded:e,isSignedIn:t}=i(),{data:r}=c();return e&&!t?u:o(r,n.VIRAL_HUB_VIDEO)}var u;function d(){return(d=e((()=>{s(),a(),r(),t(),u=1})))()}export{l as n,d as t};
+//# debugId=50b956fc-0ecb-5fee-b6c3-6ce7b8119ce7
+
+//# chunkId=50b956fc-0ecb-5fee-b6c3-6ce7b8119ce7

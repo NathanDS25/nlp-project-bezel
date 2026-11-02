@@ -1,0 +1,1315 @@
+{
+  "capture_path": "C:\\\\Users\\\\Hp\\\\Desktop\\\\nlp project bezel\\\\fashn_analysis\\\\inspect_web_page_capture.json",
+  "capture_sha256": "86f8d94fc97a248207644a310c2f8859802e36f17155237ef3c795f8fd41946a",
+  "capture_kind": "page-inspection",
+  "source_evidence_id": "ev_143811bfdac4878ca342a78d719e6e630b4b5f8d0cfb6335fe70d2dd70acc71d",
+  "capture_completeness": {
+    "status": "policy_filtered",
+    "conditions": [
+      "attach_limited",
+      "policy_filtered"
+    ],
+    "policy_filtered_sections": [
+      "metadata",
+      "network_requests",
+      "resources",
+      "scripts",
+      "storage_keys",
+      "workers"
+    ],
+    "attach_limited_sections": [
+      "console_events",
+      "metadata",
+      "network_requests",
+      "websocket_connections",
+      "websocket_frames"
+    ],
+    "truncated_sections": [],
+    "unavailable_sections": [],
+    "excluded": [
+      {
+        "section": "metadata",
+        "reason": "disallowed_origin",
+        "count": 20
+      },
+      {
+        "section": "network_requests",
+        "reason": "disallowed_origin",
+        "count": 1
+      },
+      {
+        "section": "resources",
+        "reason": "disallowed_origin",
+        "count": 18
+      },
+      {
+        "section": "resources",
+        "reason": "unsupported_url",
+        "count": 2
+      },
+      {
+        "section": "scripts",
+        "reason": "disallowed_origin",
+        "count": 14
+      },
+      {
+        "section": "scripts",
+        "reason": "unattributed_origin",
+        "count": 2
+      },
+      {
+        "section": "storage_keys",
+        "reason": "not_approved",
+        "count": null
+      },
+      {
+        "section": "workers",
+        "reason": "out_of_target_scope",
+        "count": 1
+      },
+      {
+        "section": "workers",
+        "reason": "unattributed_origin",
+        "count": 1
+      }
+    ],
+    "dropped_events": {
+      "scripts": 0,
+      "network_requests": 0,
+      "console_events": 0,
+      "websocket_connections": 0,
+      "websocket_frames": 0,
+      "webmcp_tools": 0,
+      "timeline_events": 0,
+      "total": 0
+    }
+  },
+  "output_directory": "C:\\Users\\Hp\\Desktop\\nlp project bezel\\fashn_analysis\\scripts",
+  "analysis_input": {
+    "input_path": "C:\\Users\\Hp\\Desktop\\nlp project bezel\\fashn_analysis\\scripts\\files",
+    "format": "directory"
+  },
+  "scripts": [
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_00db4e5dde3821d49159ea9cc91fb7738982516347e6c8f9232ef706242925b8",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3nc_g0lxom0ey.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3nc_g0lxom0ey.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f659d01372769cf64e39fec0e5fe5640533009b224be0dc2aed9d177a6119dbd",
+        "bytes": 45043,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0620224bed2e661e0603a22be6e1a599761b8490ed8cf0e408422460a9320a5f",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/07yssjx0xr8k3.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/07yssjx0xr8k3.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6e72c4903e98420b093042927bfdf01e30677ddb743e4c20e04a0497b8958061",
+        "bytes": 5909,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_09ee7c80252a4763966395d6f40bb9954e33b3f92f261aea624166328ad76fb8",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/2z_zb06hvhj75.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/2z_zb06hvhj75.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d6ed8bc137382d3ce526a9bc31d1859df55f2adf09f322b14d392e99a2199b5b",
+        "bytes": 4380,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0cf0b892d1ae981660c8a423ade6fe1fedddc19e61d48ac29b55d70bd6eace0f",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1r64z0jplc02w.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1r64z0jplc02w.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "48a74d4ac88c5a40db71a6944d550454b9228728a8f8e79efbafb2528272d046",
+        "bytes": 34393,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0f1fa54791aa6fe1b66fcf0a33474aada2e5641f87169c738af09b49f64ee638",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/01fudkhk_8_4d.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/01fudkhk_8_4d.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3c31829d934f47e00094111d3c413ed658749e1c9e06abb9aceb6547d40e54d3",
+        "bytes": 27146,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1846f36c3c232e5532702024c43b1bd5a1f2964e248211f79bb487929239e8a3",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/2evy2lmwelm5d.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/2evy2lmwelm5d.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f1b171d9c9c498fe813b90857371d15f4d5758514d55c89238b941b52bdf9d87",
+        "bytes": 32806,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1d5dbe9ab7f7a84c7de926b35ec5692a1cd4b155bd5285fed17d333fbea70489",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1293atb6o5d3e.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1293atb6o5d3e.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6c12c887483ecfe40da1a66c1c5272eeaa89a9eeb19348ef50c18f27039a1c60",
+        "bytes": 36314,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1f92db54c276efcddf9fdf58bf7ed919691141c43033ed52199192632131bc51",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/29xd7sc3kzafs.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/29xd7sc3kzafs.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "252d8fa26fa8ffea76dcdcae7158851188ac805d5f9f5ffbe12a38d35f99ffc9",
+        "bytes": 32889,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_46bd4394f4d7e6af664ebdfd9430fe6d1f4280fec9c44c0ab024f24796d44513",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1oocs9xhva_bw.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1oocs9xhva_bw.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "66bb1676981ed3f625a53077aaebdb430cad7c9acab5bedea1e75ab30c15d452",
+        "bytes": 38055,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_47cded462f97024927578eba969f1e9837a01ee2273371ef0cefc5398532a828",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0u2n9x34txdbd.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0u2n9x34txdbd.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "47845795e7e0bf600b19baf4445c1018e598ba9aaa3cbe0e84c5a924bf0804b5",
+        "bytes": 122550,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_51233512d885cb3fce8f6d38dbc8b0921e490c8fe5c7021d6b63e20d8a9a2819",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0ph2hunr_4ua3.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0ph2hunr_4ua3.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4f216f40944ae6e58faf3eaa629f0cb3775bdb783f45aa3ab296a414326d31fb",
+        "bytes": 623883,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_530d5aebd74ad9d72cf0aff2adfdbdb340791a96ea8998c9255011b3ffb38ba9",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3qya1fm-pxh98.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3qya1fm-pxh98.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9730cbb254c54882ce175845a237cc77aa915773ccdc05f2d0c7072049944b47",
+        "bytes": 31931,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_57496e8496ed847397d7571c281df997900c5710e2857deae31e02eae9688f6e",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3dypw1qqf_p7a.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3dypw1qqf_p7a.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "7f9db08e8743682070039e064f4b8c404d330d340400cca3983024a88b1dfd70",
+        "bytes": 62563,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_57607944608dd8932599c82a365a6bf1478643136c7496649e013e07c1fa2331",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1svm712ayto9i.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1svm712ayto9i.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "76f8aba378b41b3b0f5a6292c521620eef0f7c5c94eb5fcc11893137b79ee91a",
+        "bytes": 63982,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5e58f835395ebc0b542f04fb6944635d739544eb63f7c759038bcf0705b6c669",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/2jx_woybyq9bw.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/2jx_woybyq9bw.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a6083c02a95da86ddeb54710ccdd9fe530c82e4ce51d1bab6b01c7da9bd7cf8a",
+        "bytes": 274485,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_601649b79e899b2f92a97bf47373371845c85f62a190e2924fe987fd34660b86",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/26ph76di8mttw.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/26ph76di8mttw.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b51824a30eb15c47b12bb8500644cf5b661914335479bda32c708eb53823b803",
+        "bytes": 209138,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_61e94af8f9b5a16ef85e7814a973273fcb702336b1fc9228170427908cb6df3a",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0lc-_us6j2oc-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0lc-_us6j2oc-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e10a189467353022f8a2f0023d5e93f7b7e57867c4185eb4a6a3578850031c93",
+        "bytes": 37630,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_6ffa18c1d26848c54aca8280285a852a901d88b3d3f23339d6a1fbb01e4db03a",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3cj9fgspr-zuq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3cj9fgspr-zuq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c419b2ba227c89ec38a26d324f7da763a6c7c565b17a6bbaa01c461be3b93184",
+        "bytes": 58079,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_70407ccf8754880b3938ad433c51dfb1384cac9ae5888f7a21e2d897c252741c",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/35890q1vt7mbe.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/35890q1vt7mbe.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "1bf3be9c49631f438e4befed695621ce4520170e73fe14be645f2726c849e245",
+        "bytes": 58036,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7690b1ce070808483c860c253dc0774fb73b5c0bfcf06d68aac41e000fed2c16",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/431r5brtj1ffs.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/431r5brtj1ffs.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e905796c1f09bb9036826a83c76304a4ccc125f08d17b0de32d84bf2773d0c61",
+        "bytes": 33702,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7942de710df8b9e20819f68c2a2d10be9e8fb500d255721e43fcebde0e1e32aa",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/08q6_av253gig.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/08q6_av253gig.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e6ccff234e4a81ab35be34f7da53722d90b7587a3aeb32f1c747ab32140808e8",
+        "bytes": 37202,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7ac850fb7a59e6e5b616313921412438bca9a5f10625b89ac94846abab93db71",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/2dn3dszbw-f8-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/2dn3dszbw-f8-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "08e6b7999da7092c185548ab53d981ae0aa961d6e0aa827532eb7b1031961957",
+        "bytes": 24818,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_7d2311a770eaa6c61376e06b58ed58ebe38365efb6e67c97d0296093adb4e0b8",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1tsfq9-o5fbne.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1tsfq9-o5fbne.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a821c1dfbbfcbf62bfbaaaa1125a3070e33b5bbe45972e5f25416984998a24bf",
+        "bytes": 246639,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8764760797dfa40fad984122488ea2ed63643da80f730fdeee7ffe4fd1fc05fd",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/turbopack-2mnvnlocotreq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/turbopack-2mnvnlocotreq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9b9472a48e8c8cc80fe19ce854e8520981b85db73c5d314b0610dba5d8fd3338",
+        "bytes": 11537,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8f4634813ddc02b4d40f1fc6b965b15d089e7a1fb4a4c7c4688a43e213c5d453",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1-lzo-xpoqf6p.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1-lzo-xpoqf6p.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d6b715d0f284f3d209de2436474d6b111804a093d7b42aa7fd4b87d509f2f282",
+        "bytes": 24594,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_92fe4b7022abafe6f3d6ee039ee8b817f0691380705d7292d8cecb934d4f8b93",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1yerex7d392cg.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1yerex7d392cg.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "08610503af2d036917447eafcb07cf2e1ea590ecd72f59780841c8f8e0d8ff9a",
+        "bytes": 61165,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9351f219ebe13bdc19e5a92184b405bf787bb678114fb75a2d5e5c90e44a4046",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1jf1erlrpco1m.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1jf1erlrpco1m.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d3dc626ee669c632269457beb5ef229916cd45abfe0c42929665d8b2f5fd7ac2",
+        "bytes": 78031,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9a00a9107cc7e84fa9d3999bd6c88e3c8e8546bd9bf3761cd6bdeabef20b994b",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/33rlhdveawibh.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/33rlhdveawibh.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e44806f9ac7f762ae1b21f3f227f2cb9aa60f6a3c0f19c16c8eb844db07647db",
+        "bytes": 25550,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9b30ff2908e4436b5b633738102a03978c74664e880c083f6d36b2dc57689bac",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3_gho0a3ghwi7.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3_gho0a3ghwi7.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "bc1c8194d7c12b3f28e3983c4102b26fd0b7a8c32f6a5c03261fd0346d200d61",
+        "bytes": 264673,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9c7122fce56998c6098cd8114a4e8a0bfb2ad69b10994625b46d5d3a7a369b8a",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0ds0ngwarbc85.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0ds0ngwarbc85.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4ce8069c35e11767b79219a87ec551ac128236641e9c3dbf790e1e764f3b8fe9",
+        "bytes": 427950,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a1af5a06b33b73597944bb327749cc16d45ac55c9f7484f90bc85a1bd528b104",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1injukc7kr_es.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1injukc7kr_es.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c3f2e24edcbfe226f67db624f9d4681683332b19f4fd822007608e627fb9d204",
+        "bytes": 160498,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a1c6d2079a0f57880fb4d346d22768d3a8599822bcaa479f7e815ab80aa95f21",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/28t8fdp9h7_vq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/28t8fdp9h7_vq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "61982a77a32ec143d75d8dbb00df3572d534df1df9bdaf5dc336ce81f868e445",
+        "bytes": 245203,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a51a521285e5a8d6121b7f0ac11803eb7bffdba3a6aa6c3baa044d63ac551526",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1z7yqalns-h-x.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1z7yqalns-h-x.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "fb1cbd0c7af4d10bd340a15acd1028c1c5757513b1c16d444e4829668dc0cb48",
+        "bytes": 55951,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a7bb7c9688a0e8fd67d21916b4a41e1e9b09e87f134ab541c9879e62686c8af3",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0s1lc3jh8b1vw.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0s1lc3jh8b1vw.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c68ebcbb657f90f2052b23abacfb8110a65ec11cc26447bc7d75ea7bebd33b3e",
+        "bytes": 47975,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b0d960d71c3de11dfb2d549107a88764b352ffe02c811fa179397d4e5f0bb3a0",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/29kxfy0-wyrcv.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/29kxfy0-wyrcv.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8ac4786a34c425ff605b87b5e6128ef65fe96e8724f3622399dc821feeedfe28",
+        "bytes": 169265,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b0dcfe6395262ed591888323310a83789cf597e2ee57c9a07a50261ca9716951",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/33ajzsr1j8zwq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/33ajzsr1j8zwq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "bbb0532919a4e8f00631e87097348b14bc2da0be29f00a40073a49dd351ef0ed",
+        "bytes": 100266,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b27a884833b41d5c30e17066cdd88169ec16b82bd791ea1c1339fa6a85351409",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1egn63v4yw9h4.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1egn63v4yw9h4.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "28f4f2015baccd2885f9211b55abcd31b5baae7f4cac86348365b21399828abb",
+        "bytes": 24416,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b8cb56f97a50402bcc79713d2f496fda8fec8310e55be36526e3d063e3f26a22",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1ml8px-g2ck-3.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1ml8px-g2ck-3.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "ce6263af0e6df76e706a875ca6c96cf86f76bfeb8d6f00dc0badbe55674b2a3e",
+        "bytes": 9491,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b9bcc67ffd64857ab239d2676f32617bf3f973aa807bf869cd1fa49eaf86830d",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1cs_tt2qtomc_.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1cs_tt2qtomc_.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c5240bd3fafbbd405f3880900be5b4bfb1759e73baf288f91e8305ff15ba308c",
+        "bytes": 39781,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b9e53882c12465f51016e15b542c4dbbc7f27630d447260f39c45e5ea4050c0f",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0c225-u1ltg_c.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0c225-u1ltg_c.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "763f2ea10d552944c6e6032bce0ced3fbe06582b9087a44dacea089050487764",
+        "bytes": 11307,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bad4d092de8e725f6c606ccf683f4047c2e6d377b70b303c879894889bb9c4c0",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1dw_0wyy5zx28.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1dw_0wyy5zx28.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f6d96d5314bafe7a9295b297bf7d9cd04fc0c5a66b94048538a566acf9497651",
+        "bytes": 49319,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bc61aca59faf8301716406e3f3a16da3ebcf1aa3863ac95afea1f91f2c6e391b",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1v44ut35pt01e.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1v44ut35pt01e.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6910ba931b92da6a88e9bfd1820234fd0c3688126c3f48a70d1a8c2b6c68366c",
+        "bytes": 122884,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bfa97759fcdbda7178bbfe6b214beca441584186c1737fc3b8d9f112b91e97b9",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3jyqak9muad41.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3jyqak9muad41.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "7500037761a88adf9f5fb1363908ff571aa8cb5f57fbbcc4d9d1e560d9360581",
+        "bytes": 46969,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_cc92a4f0b0e7dbeb2bf96ac8d53b3f3a3195ba279160d8b8a285eb80fb1a1ad1",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/0__yuy4ux8b9o.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/0__yuy4ux8b9o.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "1173ec7972ae26de1e3406809b5f8ee790c9144bd821825dae69218c0a5e99b1",
+        "bytes": 24663,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d085e6e9bfa7911f4b05d2ffc996f67e483d40befcc64e2e35b02daee3d05253",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/304xbmcghw8jo.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/304xbmcghw8jo.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "dfd5ca471dc8e866743e05407f1585e307a25c9e2eecd7caa0c21b568bc0eca0",
+        "bytes": 18856,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d0e86bd5d70b440e3561f0d93c504e05068afa565ded0148f1901709f8f92a4d",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/38x1nll--4jy-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/38x1nll--4jy-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4a7d2f95ccdbc6a94ce7e2a7661e794e093ad9014a78fa783a751d608857f4a0",
+        "bytes": 25867,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d282f19c5f6c937cdd31f9f2018a3765c87d9a542b648058608b9cf8b945961a",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/35mnmrp4uvzfq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/35mnmrp4uvzfq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5c09d2436f0d549463b0ae34389fa0a8e25278be764140197e88762d1ab0278b",
+        "bytes": 25347,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d2b87115ea7cd2444ff5b2285f6c543b275206c36372f8bf6061f7fd83743b50",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1ze8mmmo3ed1r.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1ze8mmmo3ed1r.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4abbd6197130f8fe4840f95fd62916a90b2f6c9969e25e46a5def40457fa4359",
+        "bytes": 4015,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d6f394f98aef216a25c2d7889fa48a847e7af8fa14ed8be6bf33f5c323ea210d",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3deuxnn498izr.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3deuxnn498izr.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "07decf6ee33c74c5334b274287b31911398825bdbbfe7098a76c2f843c0ba5a1",
+        "bytes": 432751,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e42c5643508642e3506a5c3ff3a5a3306d0f498a4ea0d0effbef0ee1b41ee2e9",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/agent/953ec267-c4f5-45ec-b40f-f42e33c6e1a9?utm_source=fashn.ai&utm_medium=cta&utm_campaign=virtual_try_on_page&utm_content=hero",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-50-f41766c25a8fa62fe4f0d7f8c9b21d71fcf853222ed89dc83344250c074ec7a1.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "4009527b06902e2fcd3c2ce78c0652caf43bda1783d1577198d0c3919782c607",
+        "bytes": 845,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e44801b185d71627f363fa8d82fb4064b4eefac4ab01cd684154e81344199962",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3b1gwqoz40fvr.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3b1gwqoz40fvr.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "842d4a11844e99d8fdd2b84b8be1f7c9003f385a18204f877264161dcfbb4082",
+        "bytes": 128773,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ecdd0577b88040bbed5b029300cf18d58dfdbd3c8419ed9b2870b7321d678d32",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3qckk7sveabzo.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3qckk7sveabzo.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b85db2d67f0edf63c61a5876522c14bc638770e8466e6c30696fb68e5f4dd2d1",
+        "bytes": 17941,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f039d811b9c01e70f3d4df4d396222b9144e01eab5f56ea99baa4062f8fdb8ca",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/1n_4hy9vu5ctl.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/1n_4hy9vu5ctl.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5fe5e11701e45b3a2b05a7ba18d1636d0a16ae206d42e55fd6a9925920dd6b7e",
+        "bytes": 30263,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f0db72afe641d0bcb8e28d3613fb27d9b2c23ae5ce48b92c939f22465dc0b246",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/07jv1atd197gm.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/07jv1atd197gm.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8ea1898406df0ea6a80e7731528775ef9fa42974bdc4a708622169a55f59aa73",
+        "bytes": 35910,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_fb165f01da6ced90d530e0ceb8fbf831585df50ecf0fd2342b199f7b9ac43bc9",
+        "frame_id": "F91BC927E8F73E37E6027BD80A0E9143",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://app.fashn.ai/_next/static/immutable/chunks/3smh-397vmtao.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6a40b85d0f8d424e9690a34c14f29ac14ae1949c31628af4bce176cc9c59058e/_next/static/immutable/chunks/3smh-397vmtao.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c9017b96ece57fe32bb4130247bac600d227771f6c5161d1bf218acf317780b4",
+        "bytes": 117801,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    }
+  ],
+  "limitations": [
+    "Observation starts when REA attaches; prior network and console activity is unavailable.",
+    "Raw network headers, bodies, cookies, storage values, console objects, and WebSocket payloads are never retained; explicitly requested primitive console text is retained verbatim, while payload captures retain value-free shapes.",
+    "Source maps are reported only as declarative URLs and are not fetched.",
+    "URL-less scripts and console events without an allowed source URL are excluded because their origin cannot be proven.",
+    "Only script bytes retained in this capture are exported. Sources are not refetched or executed, and a response or Debugger source does not prove execution.",
+    "Ordinary unambiguous URL paths preserve relative module layouts by origin, including case-distinct spellings. Query variants, exact path collisions, file/directory prefixes, inline sources, and unrepresentable paths are isolated. A case-distinct pair is isolated only when the destination filesystem cannot store both spellings; the record names that pair. Browser module relationships of isolated paths remain unknown.",
+    "Local JavaScript analysis does not implement browser import maps, root-relative URL resolution, remote URL loading, or browser runtime behavior. It may strip import queries and fragments; isolated variants are not canonical targets.",
+    "Source-map declarations are retained as metadata. No source maps or missing dependencies are fetched or reconstructed.",
+    "Captured response bytes are browser-decoded bytes; Debugger sources are the exposed text encoded as UTF-8. Redacted bytes are exported exactly as retained, and may no longer parse as JavaScript."
+  ]
+}

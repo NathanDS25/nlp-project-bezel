@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="ac8978b6-4234-524a-a077-7363c1cb0023")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{C as t,S as n,b as r,x as i}from"./1a2c0e3d-JtAFCZvNEGwO6uT3.js";function a(e,t){c.queryByScope[e]=t}function o(e){return i(c,{sync:!0}).queryByScope[e]}var s,c;function l(){return(l=e((()=>{n(),r(),s={all:{id:`PC6mMD`},employees:{id:`zp1RbZ`},games:{id:`PmJVcv`},apps:{id:`9wLWq2`},skills:{id:`PC6mMD`},connectors:{id:`2p_PQ6`}},c=t({queryByScope:{all:``,employees:``,games:``,apps:``,skills:``,connectors:``}})})))()}export{o as i,l as n,a as r,s as t};
+//# debugId=ac8978b6-4234-524a-a077-7363c1cb0023
+
+//# chunkId=ac8978b6-4234-524a-a077-7363c1cb0023

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="de9ed05f-cc5e-5759-8d76-7d99fb48f60e")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Eg as t,Og as n,kg as r}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function i(e){s=e}async function a(e){try{let r=await n(e);return!r||r!==s?r:(s=null,await t(()=>e({skipCache:!0})).catch(()=>null)||r)}catch(e){throw new o(e)}}var o,s;function c(){return(c=e((()=>{r(),o=class extends Error{constructor(e){super(`ads_token_unavailable`,{cause:e}),this.name=`AdsTokenError`,this.status=401}},s=null})))()}export{i as n,a as r,c as t};
+//# debugId=de9ed05f-cc5e-5759-8d76-7d99fb48f60e
+
+//# chunkId=de9ed05f-cc5e-5759-8d76-7d99fb48f60e

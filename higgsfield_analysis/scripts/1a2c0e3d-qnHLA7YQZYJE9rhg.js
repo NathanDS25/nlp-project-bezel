@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="77ddc465-c5b8-5b95-a5e5-8d2d5375c1dc")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Dv as t,Lv as n,kv as r,uv as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";async function a(e){let n=r(`/job-set-chain-presets`,e==null?void 0:e.lang);e!=null&&e.showHidden&&n.searchParams.set(`show_hidden`,`true`),e!=null&&e.productKey&&n.searchParams.set(`product_key`,e.productKey);let a=await fetch(n,{headers:t()});return await i.assert(a),a.json()}function o(){return(o=e((()=>{n()})))()}export{o as n,a as t};
+//# debugId=77ddc465-c5b8-5b95-a5e5-8d2d5375c1dc
+
+//# chunkId=77ddc465-c5b8-5b95-a5e5-8d2d5375c1dc

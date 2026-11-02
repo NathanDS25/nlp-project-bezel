@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="a37dcf2d-2153-5ed5-bac3-5092e53d2184")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r;function i(){return(i=e((()=>{t=[`soul-v2`,`soul-cinema-1-5`,`soul-cinema-1-5-serega`,`soul_cinematic`,`gpt_image_2_5_sunburst`,`gpt_image_2_5_flare`,`nano_banana_2_1`,`seedream_v5_pro`,`seedream_5_0_flash`,`seedream_v5_lite`,`seedream_v4_5`,`nano_banana_2`,`nano_banana_2_lite`,`flux-3-image`,`ideogram-4-5`,`recraft-v4-1`],n=new Set([`seedream_v5_lite`,`grok_image`,`grok-image-2-0`]),r=new Set([`soul_cinematic`])})))()}export{i,n,t as r,r as t};
+//# debugId=a37dcf2d-2153-5ed5-bac3-5092e53d2184
+
+//# chunkId=a37dcf2d-2153-5ed5-bac3-5092e53d2184

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="fb2c1082-e3d6-59cc-92a5-8739ba500d1b")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Fh as t,IC as n,LC as r,Ph as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";var a;function o(){return(o=e((()=>{i(),r(),a=class{static trackEvent(e,r,i){t({event_type:e,event_properties:{env:n,modal_name:`pql_upsell`,trigger_key:r.triggerKey,variant:r.variant,tier:r.tier,target_tier:r.tier,source:`nudge`,...i}})}static trackModalView(e,t){this.trackEvent(`modal_view`,e,t)}static trackModalClick(e,t,n){this.trackEvent(`modal_click`,e,{...n,action:t})}}})))()}export{o as n,a as t};
+//# debugId=fb2c1082-e3d6-59cc-92a5-8739ba500d1b
+
+//# chunkId=fb2c1082-e3d6-59cc-92a5-8739ba500d1b

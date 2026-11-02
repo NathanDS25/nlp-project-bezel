@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="58904fb5-18a3-5aa1-81ea-8a51e45a25b3")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{Ah as n,m_ as r,p_ as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{Dd as a}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{dv as o,pv as s}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function c(){let{isSignedIn:e}=a(),t=s();return(0,l.useCallback)((n,r)=>(...a)=>{!e&&!i()?t(r):n(...a)},[e,t])}var l;function u(){return(u=e((()=>{r(),n(),l=t(),o()})))()}export{c as n,u as t};
+//# debugId=58904fb5-18a3-5aa1-81ea-8a51e45a25b3
+
+//# chunkId=58904fb5-18a3-5aa1-81ea-8a51e45a25b3

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="c3daa211-87fd-54a0-840a-31bb8ba8c794")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{_C as t,gC as n,hC as r}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function i(e={}){var t,n,r,i;return{startInput:(t=e.startInput)==null?null:t,endInput:(n=e.endInput)==null?null:n,motionId:(r=e.motionId)==null?null:r,duration:(i=e.duration)==null?5:i}}var a,o;function s(){return(s=e((()=>{t(),a=n(r({formId:`hf:application:kling-transition`,createFormFn:i})),o=a.store})))()}export{o as n,s as t};
+//# debugId=c3daa211-87fd-54a0-840a-31bb8ba8c794
+
+//# chunkId=c3daa211-87fd-54a0-840a-31bb8ba8c794

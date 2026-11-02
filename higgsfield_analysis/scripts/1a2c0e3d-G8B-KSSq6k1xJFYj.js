@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e1bebbc7-c407-5d16-9e08-961474d985da")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r;function i(){return(i=e((()=>{n={sidebarCollapsed:`academy:sidebar-collapsed`,invitations:`academy:invitations`,lessonVideo:`hf:academy:lesson-video`,lessonVideoPromptCueIntro:`academy:lesson-video-prompt-cue-intro`,pendingActions:`hf:academy:pending-actions`},r={rateReviewOpen:`academy:open-rate-review`},((t={}.NEXT_PUBLIC_ACADEMY_EMBED_ORIGINS)==null?``:t).split(`,`).map(e=>e.trim()).filter(Boolean)})))()}export{n,i as r,r as t};
+//# debugId=e1bebbc7-c407-5d16-9e08-961474d985da
+
+//# chunkId=e1bebbc7-c407-5d16-9e08-961474d985da

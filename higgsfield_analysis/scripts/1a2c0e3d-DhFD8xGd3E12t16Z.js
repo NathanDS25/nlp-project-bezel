@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b0b6904b-f438-572d-b9fa-17a8fe58cf6d")}catch(e){}}();import{n as e,o as t}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Gt as n,Kt as r}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{If as i,Lf as a}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{qr as o}from"./1a2c0e3d-KNPZJj8fQZaYwEZk.js";var s,c,l;function u(){return(u=e((()=>{a(),s=t(o()),r(),c=n(),l=e=>{let{src:t,className:n,...r}=e;return(0,c.jsxs)(`video`,{controls:!0,className:(0,s.default)(`object-contain`,n),...r,children:[(0,c.jsx)(`source`,{src:t,type:`video/mp4`}),(0,c.jsx)(i,{id:`M6-RKx`})]})}})))()}export{u as n,l as t};
+//# debugId=b0b6904b-f438-572d-b9fa-17a8fe58cf6d
+
+//# chunkId=b0b6904b-f438-572d-b9fa-17a8fe58cf6d

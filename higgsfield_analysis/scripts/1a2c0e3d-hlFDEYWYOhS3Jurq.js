@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e8b3cb14-20b4-524b-9d7e-8f23a68923f0")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t;function n(){return(n=e((()=>{t={all:[`ads-brand-research`],list:()=>[...t.all,`list`],detail:e=>[...t.all,`detail`,e],quotas:()=>[...t.all,`quotas`]}})))()}export{n,t};
+//# debugId=e8b3cb14-20b4-524b-9d7e-8f23a68923f0
+
+//# chunkId=e8b3cb14-20b4-524b-9d7e-8f23a68923f0

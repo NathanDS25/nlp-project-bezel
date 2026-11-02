@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b89c66f4-4a08-56f1-a140-c05f14de4733")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Hx as t,Ix as n,Rx as r,zx as i}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";import{l as a,u as o}from"./1a2c0e3d-aot_4YVKY5DNWYsn.js";import{d as s,g as c}from"./1a2c0e3d-KpuTVI-UBcj7u7sF.js";function l(e,t){if(!t)return n(e);let r=a();c(r,{modelVersion:e});let o=new URL(i(e),`https://higgsfield.ai`);return o.searchParams.set(`flowId`,r),`${o.pathname}${o.search}${o.hash}`}function u(){return(u=e((()=>{o(),s(),r(),t()})))()}export{u as n,l as t};
+//# debugId=b89c66f4-4a08-56f1-a140-c05f14de4733
+
+//# chunkId=b89c66f4-4a08-56f1-a140-c05f14de4733

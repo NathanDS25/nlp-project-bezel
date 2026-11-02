@@ -1,0 +1,56 @@
+{
+  "garment_scope": [
+    "clothing usuall",
+    "Garment Details Can Change\",description:\"Small",
+    "clothing on a person without physicall",
+    "clothing naturall"
+  ],
+  "lighting": [
+    "light blue oversized denim jacket over a white tee. Preserve the original sidewalk background, face, pose",
+    "lighting.\",before:$R[162]=",
+    "lighting.\",before:$R[168]=",
+    "lighting, visible body shape, and minimal occlusion around the clothing area give the model more reliable co",
+    "Lighting and Visible Body Shape\",description:\"A clear full-body or half-body image with fitted clothing usua",
+    "lighting, a cropped or seated pose, hands or hair covering the clothing area, an unclear garment reference, ",
+    "lighting. It also includes a clean studio option when you want a simpler product-style result.\"",
+    "light, and mood...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u52a8\u4f5c\u3001\u8fd0\u955c\u3001\u5149\u7ebf\u4e0e\u6c1b\u56f4...\"",
+    "lighting, and sound...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u52a8\u4f5c\u3001\u8fd0\u955c\u3001\u5149\u7ebf\u548c\u58f0\u97f3...\"",
+    "light, and sound...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u52a8\u4f5c\u3001\u8fd0\u955c\u3001\u5149\u7ebf\u4e0e\u58f0\u97f3...\"",
+    "lighting, dialogue, and sound...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u52a8\u4f5c\u3001\u8fd0\u955c\u3001\u5149\u7ebf\u3001\u5bf9\u767d\u548c\u58f0\u97f3...\"",
+    "lighting, and details...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u6784\u56fe\u3001\u98ce\u683c\u3001\u5149\u7ebf\u548c\u7ec6\u8282...\"",
+    "lighting, dialogue, and sound...\",zh:\"\u63cf\u8ff0\u4e3b\u4f53\u3001\u52a8\u4f5c\u3001\u8fd0\u955c\u3001\u5149\u7ebf\u3001\u5bf9\u767d\u548c\u58f0\u97f3...\"",
+    "lighting environment\",zh:\"\u4fdd\u7559\u539f\u59cb\u80cc\u666f\u3001\u900f\u89c6\u548c\u5149\u7ebf\u73af\u5883\"",
+    "lightly oversized.\",zh:\"\u4f8b\u5982\uff1a\u978b\u5b50\u4fdd\u6301\u4e0d\u53d8\uff0c\u5916\u5957\u7565\u5bbd\u677e\u3002\"",
+    "lighting, and color temperature. Keep hands, face, hair, background objects, and non-clothing areas unchange"
+  ],
+  "background": [
+    "Background Remover\",url:\"/video-background-remover\",target:\"_self\"",
+    "background.\",before:$R[159]=",
+    "background, face, pose, pants, and natural lighting.\",before:$R[162]=",
+    "background, face, hair, jeans, shoes, and natural lighting.\",before:$R[168]=",
+    "Background\",description:\"Use the keep-background option when you want to preserve the original photo context, ",
+    "background when the result needs a simpler product-style presentation.\",icon:\"PanelsTopLeft\"",
+    "Background\",description:\"Select the garment scope, such as full visible outfit, top, bottom, dress, or layer. ",
+    "background for a personal photo feel, or use the studio option for a cleaner preview.\",icon:\"SlidersHorizontal",
+    "Background for Cleaner Product Looks\",description:\"If the original room or street scene distracts from the clo",
+    "background option to make the try-on result easier to review.\",icon:\"Sparkles\"",
+    "background.\"",
+    "background?\",answer:\"Yes. The app has a keep-background option for preserving the original setting, perspectiv",
+    "background\",value:\"transparent\"",
+    "backgrounds require PNG or WebP output.\",zh:\"\u900f\u660e\u80cc\u666f\u9700\u8981 PNG \u6216 WebP \u8f93\u51fa\u3002\"",
+    "background\",label:$R[2393]=",
+    "Background\",zh:\"\u80cc\u666f\"",
+    "background_mode\",type:\"buttons\",label:$R[3479]=",
+    "Background\",zh:\"\u80cc\u666f\"",
+    "background, perspective, and lighting environment\",zh:\"\u4fdd\u7559\u539f\u59cb\u80cc\u666f\u3001\u900f\u89c6\u548c\u5149\u7ebf\u73af\u5883\"",
+    "background while preserving the person pose and realistic shadows\",zh:\"\u4f7f\u7528\u5e72\u51c0\u4e2d\u6027\u7684\u5f71\u68da\u80cc\u666f\uff0c\u540c\u65f6\u4fdd\u7559\u4eba\u7269\u59ff\u52bf\u548c\u771f\u5b9e\u9634\u5f71\""
+  ],
+  "prompts": [
+    "prompt:\"Transfer only the beige linen blazer and white blouse upper-body styling. Preserve identity, face, pose, body proportions, trousers, and clean studio presentation.\"",
+    "prompt:\"Apply the burgundy satin midi dress as a one-piece outfit. Keep the person recognizable, maintain natural body proportions, and keep a clean studio background.\"",
+    "prompt:\"Replace the upper-body outfit with the light blue oversized denim jacket over a white tee. Preserve the original sidewalk background, face, pose, pants, and natural lighting.\"",
+    "prompt:\"Transfer the sage green hoodie and jogger athleisure set as a full visible outfit. Preserve the person, hands, pose, proportions, and studio realism.\"",
+    "prompt:\"Add the camel trench coat as an outer layer over the existing outfit. Preserve the original indoor background, face, hair, jeans, shoes, and natural lighting.\""
+  ],
+  "presets": []
+}

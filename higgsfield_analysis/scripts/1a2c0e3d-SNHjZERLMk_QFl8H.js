@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="5f185261-4128-5616-b523-579f81b5e1dc")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{_C as t,gC as n,hC as r}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";function i(e={}){var t,n,r,i;return{input_image:(t=e==null?void 0:e.input_image)==null?null:t,isAllPresets:(n=e==null?void 0:e.isAllPresets)!=null&&n,preset_id:(r=e==null?void 0:e.preset_id)==null?null:r,availablePresets:(i=e==null?void 0:e.availablePresets)==null?1:i}}var a,o;function s(){return(s=e((()=>{t(),a=n(r({formId:`hf:application:game-dump`,createFormFn:i})),o=a.store})))()}export{o as n,a as r,s as t};
+//# debugId=5f185261-4128-5616-b523-579f81b5e1dc
+
+//# chunkId=5f185261-4128-5616-b523-579f81b5e1dc

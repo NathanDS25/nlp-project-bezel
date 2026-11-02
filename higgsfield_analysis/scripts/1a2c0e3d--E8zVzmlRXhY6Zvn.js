@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e38eba75-14cd-5756-a8f8-eda312f50361")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){let t=e.trim().length;return t?Math.min(Math.max(Math.ceil(t/15),1),120)*n:null}var n,r,i,a;function o(){return(o=e((()=>{n=.1,r=2048,i=[8e3,16e3,24e3,32e3,44100,48e3],a={id:`seed_audio`,label:`Seed Audio 1.0`,description:`Multi-speaker scenes with speech and ambience`,descriptionMsg:{id:`MEQZfQ`},logo:`https://static.higgsfield.ai/public/speech/seed-speech.svg`}})))()}export{o as a,t as i,a as n,i as r,r as t};
+//# debugId=e38eba75-14cd-5756-a8f8-eda312f50361
+
+//# chunkId=e38eba75-14cd-5756-a8f8-eda312f50361

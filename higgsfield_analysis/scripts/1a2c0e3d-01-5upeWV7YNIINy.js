@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="22997c90-1c8a-5b23-8bd7-a91702a85cb4")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r;function i(){return(i=e((()=>{t={general:`flux_kontext_general`,multiReference:`flux_kontext_multi_reference`},n=[{id:t.general,isNew:!1,isTopChoice:!1,name:`Kontext Max`,priority:0,preview:{height:512,source:`https://static.higgsfield.ai/public/flux.webp`,type:`static`,width:512}}],r=[{id:t.multiReference,isNew:!0,isTopChoice:!1,name:`Multi Reference`,priority:1,preview:{height:512,source:`https://static.higgsfield.ai/public/flux-multiref.png`,type:`static`,width:512}}]})))()}export{r as i,n,i as r,t};
+//# debugId=22997c90-1c8a-5b23-8bd7-a91702a85cb4
+
+//# chunkId=22997c90-1c8a-5b23-8bd7-a91702a85cb4

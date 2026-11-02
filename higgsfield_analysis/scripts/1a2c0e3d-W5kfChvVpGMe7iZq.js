@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b9562877-397c-5c98-a21d-f2170cc75f99")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";function n(e){window.dispatchEvent(new CustomEvent(a,{detail:{assetId:e}}))}function r(e){let{onNotify:t,enabled:n=!0}=e;(0,i.useEffect)(()=>{var e;if(!n)return;let r=e=>{var n;let r=e==null||(n=e.detail)==null?void 0:n.assetId;r&&t(r)};return(e=window)==null||e.addEventListener(a,r),()=>{var e;(e=window)==null||e.removeEventListener(a,r)}},[t,n])}var i,a;function o(){return(o=e((()=>{i=t(),a=`feed-cta-overlay-notify`})))()}export{n,r,o as t};
+//# debugId=b9562877-397c-5c98-a21d-f2170cc75f99
+
+//# chunkId=b9562877-397c-5c98-a21d-f2170cc75f99

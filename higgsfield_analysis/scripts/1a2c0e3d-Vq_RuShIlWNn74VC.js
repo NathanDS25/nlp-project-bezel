@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="9e03c9b4-95a9-5f06-9bec-1cb6d147d842")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){return e?r[e]:void 0}function n(e,n){let r=t(e.slug);return r?{...n,thumbnailUrl:r.coverUrl,videoUrl:null,mosaic:void 0}:n}var r;function i(){return(i=e((()=>{r={"kok-boru":{coverUrl:`https://static.higgsfield.ai/cinema-studio/kok-boru-poster.webp`}}})))()}export{t as n,i as r,n as t};
+//# debugId=9e03c9b4-95a9-5f06-9bec-1cb6d147d842
+
+//# chunkId=9e03c9b4-95a9-5f06-9bec-1cb6d147d842

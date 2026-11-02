@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="3ebba36e-855e-5646-afc5-4f06153ef6da")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{YC as t,_C as n,gC as r,hC as i}from"./1a2c0e3d-o7fPGNWZmdWvgxmx.js";var a;function o(){return(o=e((()=>{n(),a=r(i({formId:`hf:ai-influencer-genjutsu-form:v1`,storageType:`session`,createFormFn:e=>({model:t(e==null?void 0:e.model)===`genjutsu-flash`?`genjutsu-flash`:`hf-mult-motion-control`})})).store})))()}export{o as n,a as t};
+//# debugId=3ebba36e-855e-5646-afc5-4f06153ef6da
+
+//# chunkId=3ebba36e-855e-5646-afc5-4f06153ef6da

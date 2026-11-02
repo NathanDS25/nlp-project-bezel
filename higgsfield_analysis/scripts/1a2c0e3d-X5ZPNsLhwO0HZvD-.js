@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="1c329be4-0da6-5d0a-a724-33a2c574bbca")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t;function n(){return(n=e((()=>{t={tabs:{installed:!0,available:!0,shared:!0},search:!0,createSkill:!0,categories:!0,preinstalledSection:!0,detailModal:!0,installToggle:!0,editSkill:!1,evolutionHistory:!1,communitySharing:!0,unshareFromCommunity:!0,copyShareLink:!0,tryInChat:!0,createUploadFiles:!0,createUploadReferences:!0,createUploadArchives:!0}})))()}export{n,t};
+//# debugId=1c329be4-0da6-5d0a-a724-33a2c574bbca
+
+//# chunkId=1c329be4-0da6-5d0a-a724-33a2c574bbca

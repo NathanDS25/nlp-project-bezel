@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e5a6746a-f30f-5865-bafe-c22f22785bbf")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{I as t,K as n,M as r,U as i,k as a}from"./1a2c0e3d-JtAFCZvNEGwO6uT3.js";function o(e){return r(c).parse(e)}var s,c;function l(){return(l=e((()=>{t(),s=n().regex(/^[a-z0-9]+(?:-[a-z0-9]+)*$/),c=i({id:n().min(1),slug:s,title:n().min(1),description:n(),artwork:a([`ugc`,`movie`,`agents`])})})))()}export{o as n,l as t};
+//# debugId=e5a6746a-f30f-5865-bafe-c22f22785bbf
+
+//# chunkId=e5a6746a-f30f-5865-bafe-c22f22785bbf

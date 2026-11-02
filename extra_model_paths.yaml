@@ -1,0 +1,42 @@
+comfyui_shared:
+    base_path: C:/Users/Hp/AppData/Local/Comfy-Desktop/ComfyUI-Shared/models/
+    is_default: true
+    checkpoints: checkpoints/
+    configs: configs/
+    loras: loras/
+    vae: vae/
+    text_encoders: text_encoders/
+    diffusion_models: diffusion_models/
+    clip_vision: clip_vision/
+    style_models: style_models/
+    embeddings: embeddings/
+    controlnet: controlnet/
+    latent_upscale_models: latent_upscale_models/
+    upscale_models: upscale_models/
+
+comfyui_drive_d:
+    base_path: D:/ComfyUI-Models/
+    is_default: false
+    checkpoints: checkpoints/
+    configs: configs/
+    loras: loras/
+    vae: vae/
+    text_encoders: |
+        text_encoders/
+        clip/
+    clip: |
+        text_encoders/
+        clip/
+    diffusion_models: |
+        diffusion_models/
+        unet/
+    unet: |
+        diffusion_models/
+        unet/
+    clip_vision: clip_vision/
+    style_models: style_models/
+    embeddings: embeddings/
+    controlnet: controlnet/
+    latent_upscale_models: latent_upscale_models/
+    upscale_models: upscale_models/
+    upscale_models: upscale_models/

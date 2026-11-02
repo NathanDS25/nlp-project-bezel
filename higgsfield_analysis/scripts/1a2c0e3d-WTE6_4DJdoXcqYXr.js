@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="e7648c2d-04c4-5e84-98a0-f5237e3984bf")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Jp as t,qp as n}from"./1a2c0e3d-35HuCA9ZunOlmIga.js";import{a as r,t as i}from"./1a2c0e3d-Wuxfr9t3qhm8bI8e.js";function a(e,t){var n;return!!t&&((n=e.user)==null?void 0:n.id)===t}function o(e,t){if(!a(e,t))throw new i(`job-resubmit-owner-required`,n._({id:`7iQaxJ`}))}function s(){return(s=e((()=>{r(),t()})))()}export{s as n,a as r,o as t};
+//# debugId=e7648c2d-04c4-5e84-98a0-f5237e3984bf
+
+//# chunkId=e7648c2d-04c4-5e84-98a0-f5237e3984bf

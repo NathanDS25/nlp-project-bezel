@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="320cfcee-b7f8-5ba2-aed1-500749f8b2ba")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e,t){var r;if((t==null?void 0:t.includePreview)!==!1&&e.previewUrl)return[{src:e.previewUrl,alt:e.name}];let i=[];for(let t of(r=e.recentJobs)==null?[]:r){if(!t.url)continue;let r=n.test(t.url);if((!r||t.thumbnailUrl)&&(i.push({src:t.url,alt:e.name,isVideo:r,thumbnailSrc:r?t.thumbnailUrl:void 0}),i.length>=4))break}return i}var n;function r(){return(r=e((()=>{n=/\.(?:mp4|webm|mov|m4v|m3u8)(?:[?#]|$)/i})))()}export{r as n,t};
+//# debugId=320cfcee-b7f8-5ba2-aed1-500749f8b2ba
+
+//# chunkId=320cfcee-b7f8-5ba2-aed1-500749f8b2ba

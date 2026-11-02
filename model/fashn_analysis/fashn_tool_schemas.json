@@ -1,0 +1,235 @@
+{
+  "product-to-model": {
+    "key": "product-to-model",
+    "label": "Product to Model",
+    "surface": "shared",
+    "model_name": "product-to-model",
+    "request_prefix": "product_to_model",
+    "poll_interval": "2e3",
+    "description": "Turn wearable product images into professional model photography",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "face_reference_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "product_image"
+    ]
+  },
+  "try-on": {
+    "key": "try-on",
+    "label": "Try-On",
+    "surface": "shared",
+    "model_name": "tryon-edit",
+    "request_prefix": "tryon_edit",
+    "poll_interval": "2e3",
+    "description": "Visualize how an outfit worn by one model looks on different models",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "product_image"
+    ]
+  },
+  "packshot": {
+    "key": "packshot",
+    "label": "Packshot",
+    "surface": "studio",
+    "model_name": "packshot",
+    "request_prefix": "packshot",
+    "poll_interval": "2e3",
+    "description": "Turn product or on-model images into clean, professional packshots",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "product_image"
+    ]
+  },
+  "model-swap": {
+    "key": "model-swap",
+    "label": "Model Swap",
+    "surface": "shared",
+    "model_name": "model-swap-edit",
+    "request_prefix": "model_swap",
+    "poll_interval": "1e3",
+    "description": "Change the model while preserving the pose and garment details",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "face_reference_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "model_image"
+    ]
+  },
+  "face-swap": {
+    "key": "face-swap",
+    "label": "Face Swap",
+    "surface": "studio",
+    "model_name": "face-swap",
+    "request_prefix": "face_swap",
+    "poll_interval": "1e3",
+    "description": "Replace the face in your image with a different one",
+    "param_keys": [
+      "mode"
+    ],
+    "image_keys": [
+      "image"
+    ]
+  },
+  "edit": {
+    "key": "edit",
+    "label": "Edit",
+    "surface": "shared",
+    "model_name": "edit",
+    "request_prefix": "edit",
+    "poll_interval": "2e3",
+    "description": "Change color, pose, background and more with a single prompt",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "image",
+      "image_context"
+    ]
+  },
+  "omega-image": {
+    "key": "omega-image",
+    "label": "Generate Image",
+    "surface": "assistant",
+    "model_name": "omega-image",
+    "request_prefix": "omega_image",
+    "poll_interval": "2e3",
+    "description": "Unified image generation and editing from ordered images",
+    "param_keys": [
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "prompt",
+      "classification"
+    ],
+    "image_keys": [
+      "images"
+    ]
+  },
+  "omega-video": {
+    "key": "omega-video",
+    "label": "Generate Video",
+    "surface": "assistant",
+    "model_name": "omega-video",
+    "request_prefix": "omega_video",
+    "poll_interval": "2e3",
+    "description": "Unified video generation from a prompt and optional frames",
+    "param_keys": [
+      "duration",
+      "resolution",
+      "prompt"
+    ],
+    "image_keys": [
+      "start_image",
+      "end_image"
+    ]
+  },
+  "model-create": {
+    "key": "model-create",
+    "label": "Create Model",
+    "surface": "shared",
+    "model_name": "model-create-edit",
+    "request_prefix": "models_create",
+    "poll_interval": "1e3",
+    "description": "Create a unique AI model using a text prompt or reference image",
+    "param_keys": [
+      "num_images",
+      "aspect_ratio",
+      "resolution",
+      "generation_mode",
+      "face_reference_mode",
+      "prompt"
+    ],
+    "image_keys": [
+      "image_reference"
+    ]
+  },
+  "image-to-video": {
+    "key": "image-to-video",
+    "label": "Image to Video",
+    "surface": "shared",
+    "model_name": "image-to-video",
+    "request_prefix": "image_to_video",
+    "poll_interval": "2e3",
+    "description": "Turn your results into a short motion clip",
+    "param_keys": [
+      "duration",
+      "resolution",
+      "prompt"
+    ],
+    "image_keys": [
+      "image",
+      "end_image"
+    ]
+  },
+  "image-upscale": {
+    "key": "image-upscale",
+    "label": "Image Upscale",
+    "surface": "shared",
+    "model_name": "image-upscale",
+    "request_prefix": "image_upscale",
+    "poll_interval": "",
+    "description": "Enhance the resolution of your images up to 4K resolution",
+    "param_keys": [
+      "upscale_factor"
+    ],
+    "image_keys": [
+      "image"
+    ]
+  },
+  "reframe": {
+    "key": "reframe",
+    "label": "Reframe",
+    "surface": "studio",
+    "model_name": "reframe",
+    "request_prefix": "reframe",
+    "poll_interval": "1e3",
+    "description": "Extend or crop your image to a new aspect ratio",
+    "param_keys": [
+      "aspect_ratio",
+      "resolution",
+      "generation_mode"
+    ],
+    "image_keys": [
+      "image"
+    ]
+  },
+  "background-remove": {
+    "key": "background-remove",
+    "label": "BG Remove",
+    "surface": "studio",
+    "model_name": "background-remove",
+    "request_prefix": "background_remove",
+    "poll_interval": "1e3",
+    "description": "Cleanly remove the background from your image",
+    "param_keys": [],
+    "image_keys": [
+      "image"
+    ]
+  }
+}

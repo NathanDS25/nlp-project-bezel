@@ -1,0 +1,6 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b12b2e73-f539-55d2-b15b-0fcd2f968d29")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{c as t,i as n,n as r,r as i,t as a}from"./1a2c0e3d-jIoUlgkrAPCFX38y.js";function o(e){let t=[...e.matchAll(c)],n=e.length;for(let r=t.length-1;r>=0;r--){let i=t[r];if(e.slice(i.index+i[0].length,n).trim())break;n=i.index}let r=t.length&&e.slice(0,n).endsWith(`
+
+`)?e.slice(0,n-2):e;return{text:n===0?``:r.replace(c,``),references:[...new Set(t.map(e=>e[0]))]}}function s(e,t){return t.length?e?`${e}\n\n${t.join(` `)}`:t.join(` `):e}var c;function l(){return(l=e((()=>{t(),c=new RegExp([`<hf-design-selection>[\\s\\S]*?</hf-design-selection>`,a.source,r.source,i.source,n.source].join(`|`),`g`)})))()}export{l as n,o as r,s as t};
+//# debugId=b12b2e73-f539-55d2-b15b-0fcd2f968d29
+
+//# chunkId=b12b2e73-f539-55d2-b15b-0fcd2f968d29

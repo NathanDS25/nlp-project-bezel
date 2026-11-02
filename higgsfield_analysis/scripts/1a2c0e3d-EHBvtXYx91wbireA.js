@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="3da72dc0-ee81-5c87-a1ef-e6dfe735b268")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r;function i(){return(i=e((()=>{t=`https://discord.gg/higgsfield`,n=`https://discord.gg/bqJV9z8Yyr`,r=`https://discord.com/channels/1173418785630330921`})))()}export{i,n,r,t};
+//# debugId=3da72dc0-ee81-5c87-a1ef-e6dfe735b268
+
+//# chunkId=3da72dc0-ee81-5c87-a1ef-e6dfe735b268

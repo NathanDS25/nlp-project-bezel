@@ -1,0 +1,14 @@
+
+# Automated ignore rules
+node_modules/
+.next/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+.turbo/
+
+# Automated ignore rules
+build/
+dist/

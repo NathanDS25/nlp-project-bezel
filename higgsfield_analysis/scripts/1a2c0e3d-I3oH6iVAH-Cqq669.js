@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="94486e37-884c-5768-b6e4-1a377ac3c680")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t;function n(){return(n=e((()=>{t={all:[`ads-brand-products`],brand:e=>[...t.all,e],list:e=>[...t.brand(e),`list`]}})))()}var r;function i(){return(i=e((()=>{r={all:[`ads-products-catalogue`],list:()=>[...r.all,`list`]}})))()}export{n as i,i as n,t as r,r as t};
+//# debugId=94486e37-884c-5768-b6e4-1a377ac3c680
+
+//# chunkId=94486e37-884c-5768-b6e4-1a377ac3c680

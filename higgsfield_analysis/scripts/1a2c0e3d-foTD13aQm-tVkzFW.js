@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="bcf6d15c-a09a-5558-a292-0d2a2b66190d")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{ng as n,rg as r}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function i(){let[e,t]=(0,a.useState)(`loading`),[r,i]=(0,a.useState)(!1),[s,c]=(0,a.useState)(null);return(0,a.useEffect)(()=>{let e;return n.then(n=>{let r=()=>{let e=n.getFeatureValue(o,null);c(e),i(e!==`test`),t(`ready`)};r(),e=n.subscribe(r)}),()=>{e&&e()}},[]),{hasAccess:r,status:e,group:s}}var a,o;function s(){return(s=e((()=>{r(),a=t(),o=`free-video-test`})))()}export{i as n,s as t};
+//# debugId=bcf6d15c-a09a-5558-a292-0d2a2b66190d
+
+//# chunkId=bcf6d15c-a09a-5558-a292-0d2a2b66190d

@@ -1,0 +1,1056 @@
+{
+  "capture_path": "C:\\\\Users\\\\Hp\\\\Desktop\\\\nlp project bezel\\\\buble_analysis\\\\inspect_web_page_capture.json",
+  "capture_sha256": "a250e403aac93107b48dc4a18c5a051dfca4e2dcfeac3051948f5a238eac30c9",
+  "capture_kind": "page-inspection",
+  "source_evidence_id": "ev_3fcf7258e2dddcaba54a70a37f1013888d0566113893c5fc503d40bfe10aa4ea",
+  "capture_completeness": {
+    "status": "policy_filtered",
+    "conditions": [
+      "attach_limited",
+      "policy_filtered"
+    ],
+    "policy_filtered_sections": [
+      "metadata",
+      "resources",
+      "scripts",
+      "storage_keys"
+    ],
+    "attach_limited_sections": [
+      "console_events",
+      "metadata",
+      "network_requests",
+      "websocket_connections",
+      "websocket_frames"
+    ],
+    "truncated_sections": [],
+    "unavailable_sections": [],
+    "excluded": [
+      {
+        "section": "metadata",
+        "reason": "disallowed_origin",
+        "count": 35
+      },
+      {
+        "section": "metadata",
+        "reason": "unsupported_url",
+        "count": 1
+      },
+      {
+        "section": "resources",
+        "reason": "disallowed_origin",
+        "count": 12
+      },
+      {
+        "section": "scripts",
+        "reason": "disallowed_origin",
+        "count": 3
+      },
+      {
+        "section": "scripts",
+        "reason": "unattributed_origin",
+        "count": 1
+      },
+      {
+        "section": "storage_keys",
+        "reason": "not_approved",
+        "count": null
+      }
+    ],
+    "dropped_events": {
+      "scripts": 0,
+      "network_requests": 0,
+      "console_events": 0,
+      "websocket_connections": 0,
+      "websocket_frames": 0,
+      "webmcp_tools": 0,
+      "timeline_events": 0,
+      "total": 0
+    }
+  },
+  "output_directory": "C:\\Users\\Hp\\Desktop\\nlp project bezel\\buble_analysis\\scripts",
+  "analysis_input": {
+    "input_path": "C:\\Users\\Hp\\Desktop\\nlp project bezel\\buble_analysis\\scripts\\files",
+    "format": "directory"
+  },
+  "scripts": [
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_02063417107be6d0ccf939e41785d230856c9613081d564fc30c994d8f30f082",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/image-Cdhh1v5A.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/image-Cdhh1v5A.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "0b4d4e6ab812e9980204c33dda97285e35473be600f60aa35b9269d995fcd5c8",
+        "bytes": 270,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_0c4f22ce363633fb3469118ba53a6397b5f36db12c19a764897b76b01bdffac7",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/accordion-G-Bk2Fn0.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/accordion-G-Bk2Fn0.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3472dc69549e6288d76aaae8403341289334ea553058d26a677ca388a1293103",
+        "bytes": 5609,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1d088d382d7fe99bdb8a4e72cc0860e2577c5cdaac67bd5712125619f6f00d86",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/switch-BInzh9PM.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/switch-BInzh9PM.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a6d0ac17f9af853f7905da98391bc7c58ccce61e7bd3caf359c581f63a218bab",
+        "bytes": 3240,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_1d55dc3c8223fabf0219f56d465cda7e1103e7ea68bdb056a7e0278eeef21d95",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/virtual-try-on",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-4-0a703b8ce6645c007627e2edeafb47c461ad3921a67587379765ca2764c0cd6c.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "574ced587fef846a329cc3587541bd07865711b50ffb0df1c8315b556724c722",
+        "bytes": 591,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_20d9cad5cc147872a5d59e14e8394b4362d559919033f9f82eeb3e4a2cbcbd45",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/video-showcase-view-BS7bkNoA.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/video-showcase-view-BS7bkNoA.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "813c30d45e034a8fb70f34b701378afd240083ba22cd585ab6e8cb36d8de349d",
+        "bytes": 64709,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_3d02541ab0aa5effe3e4f349c9aa5bdbb42deb72d7f400196f359255627183cf",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/slider-PBMY2zUg.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/slider-PBMY2zUg.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "66740b50bba5ee4b24690c7d617b5397c13e784c7fcbfc9650017b43ecaa3877",
+        "bytes": 9124,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_49bea6629fb90858983ea0af4af73306cb0e2d81755c71fe9dc15bf6c490eaf7",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/index-D_m2ltZj.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/index-D_m2ltZj.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "6f1371f75e0313164b3256069478e5b315b42239f2899303e7fd748422b2cf43",
+        "bytes": 1129289,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_4ad9e98c7800bde9ed4d794de1fecdc464b7cfb630138ee64f520657f4c0fb96",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/circle-x-WQIMCcWt.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/circle-x-WQIMCcWt.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "19ff8bc0463aedcbdcc70c5108037ae963d093056fe673c169aa3edddce5de98",
+        "bytes": 208,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_4b4995b8969d247a81ea45361ebc9486b305c865030bd1d5b32d84106dcbd40b",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/pricing-page.dto-BU5SZrl1.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/pricing-page.dto-BU5SZrl1.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "09542adbfa66e4d4ea7bfa987ccd0a3e40aa355cfc18d4784db9c7098aacdaf8",
+        "bytes": 615,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_51177d4578f27276cacb149b340a461acd815486d3554a6b572a8ba5c98833a4",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/generation-continuation-local-BEvT5EzF.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/generation-continuation-local-BEvT5EzF.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5cbc8f3cc3815da005363cf41312f296e7f4fea05b6744b5302f01f28d651508",
+        "bytes": 2127,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_577ce43c5580521787d901c4727b46a559b3f712b6e1ee268f4e8d104d0798d2",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/virtual-try-on",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-11-a9c8143595e71bb4b27c045560239867aeba370e587be80a98d2bd74e8f68dce.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "694b3d658f0c0fd44a60a6ee58170f7dd30bda80ea87994fc5c6771fd93e3531",
+        "bytes": 341,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_5e41fe54b7d1e2eeb61ee1e1fad1292cba1f96c2c545c7b6b51f3094f5bf7d5c",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/virtual-try-on",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-12-8f5a1d0383f6eeee57bd457adda7a0497f336a946f1e6fc0d54d3f74cf76e9a6.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "cbdd5a5eef74eb2a42d4efac09e462c58dd8fb49bbcb8a643f807a2255db2242",
+        "bytes": 514,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_65845f6d6c585c3f50f7827a1d3313840593c87e81a3f4adb238691e44888237",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/lazy-image-CoMzoKOE.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/lazy-image-CoMzoKOE.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "31e42b69a7de5844dcc1ef1f5b137a91848c2e30c837bb4e10c7826500ab5440",
+        "bytes": 1207,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_65f9018d0be95a539522d61844b0185016b1d3d20ef8aff14bac55262a80cfe0",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/plus-CI1D4G31.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/plus-CI1D4G31.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "988997b7f7fb8c192c74e9a4f99c14193e872fa9cdf7197ea44e2eaefa7dda79",
+        "bytes": 154,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_69ace5e0404918513fbd0795a0d9db6a0d834063f965f5c2c101ad292b0dbbb5",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/ai-video-shell-B2qmsQo7.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/ai-video-shell-B2qmsQo7.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "dcfd1d4fbae80a0361a539fa41bf86d5dec45990c0adab9264ee9e786723fca2",
+        "bytes": 24750,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_6e0c7b064164d4d49bbe9b38b06ad006d8fb73de42ab83378e64706b932b1b06",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/upload-BrIyH96k.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/upload-BrIyH96k.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "bf5c2bad5f89924a808fc4ddc0e3d4d8b89ed5ea83fa2297a1be1ef554dd2234",
+        "bytes": 231,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_77e001b6163fd33e72c2547b95b2d33f989f9bf95ed8369556149ba0afc95d3c",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": false,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/virtual-try-on",
+      "content": {
+        "state": "exported",
+        "relative_path": "isolated/source-17-052de9f654c00131f2cb39cce93ab6c34f8b1150dd32d86df4d6198ed6d2fa25.js",
+        "layout": "isolated",
+        "layout_reason": "URL path is not an ordinary portable JavaScript module path.",
+        "sha256": "910a30907530ffdd4c20107a3097f113e99daeccacb765302b9226ed3fa4b0cc",
+        "bytes": 226154,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_82a5e597ed0ee3187ee18d2e80f32c1a8b132659f9e6c4884d4fc18a79e9fc01",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/index-CQ4oX9Ud.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/index-CQ4oX9Ud.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d6cc9edc0fa8cc63af7456277ab45e50aa70c007828c18a5c3e64c21bc604402",
+        "bytes": 8573,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_888f7e8cfe5c2680575dd84d4fc82531aca595e604501bb9f95d7e12fcfd5802",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/maximize-2-CUisAK85.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/maximize-2-CUisAK85.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "8979d154035ff88d6719a43efd99785710fdbedd856df6837a727a472162acda",
+        "bytes": 427,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8b54b09d52580b5ce98fe0c32b6319d98b4f49985c3180b123ce08cc8f24c8fd",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/dropdown-menu-BVfGckP5.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/dropdown-menu-BVfGckP5.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "67bef822b28f5b7d4bcea2f49aa2546439d60711855d3d64b17427f80c0c007e",
+        "bytes": 22846,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_8b9edf38d68cb3d17a88799a045d22508bf22476912a4d3777267e793e598eb1",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/textarea-BDLY3ypb.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/textarea-BDLY3ypb.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "98633deb4c4af23cfdf2913a23f90fd4ef3d2231d03fd9ed7259b0e793aad77a",
+        "bytes": 776,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_93ca1eaad069f8f171fc2e9cd5b0cb8ce1400d98e5fb22db77ffa7b1c6b70fbe",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/index-BMSQkwth.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/index-BMSQkwth.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "16967300bcc2526559204355afb2d8bb3ea71292362f762650cca9625abc1968",
+        "bytes": 103114,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9c7eb6dfa9d9bc5462bd17ea22ce6f6d177cfbad33840ef8dd7a12560d48fa2f",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/toggle-group-UAdzHUeA.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/toggle-group-UAdzHUeA.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "310e99681788a15f3a97a08e601d68f3641dbe9562f2b71e40b467de0fe2c7ba",
+        "bytes": 5002,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_9d4f39ca78181104cfadc15c6e2019bb85c70da57f970171a5558ea32215b09e",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/upload-utils-BEVr08G4.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/upload-utils-BEVr08G4.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b0745df9ab6bd906353548107414042ff52cde06621693d4e67b58c3337b565e",
+        "bytes": 4903,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a4d7691abf70705ae7de8cd95277cf0608bc39193e751c18beaba429b0877d28",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/discrete-option-slider-we3z6_f7.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/discrete-option-slider-we3z6_f7.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "ff63e03bc6071d42c7570523c0e6e46fc5728e7fef284e46153f63d03dfbe382",
+        "bytes": 73203,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_a92f605acd06407aaca82612fb2670fc5cc47d7ff29197611e03c5fe88e3172a",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/search-BTv-2h_4.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/search-BTv-2h_4.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "ad538d7a32e35e5d16ff9565dc86651f6fd627c5446bdca1547db9432c17b90e",
+        "bytes": 175,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b08c333b2efbcc43e63f7fe87b8c93b60586025394e220314e0fbcae83891b50",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/trash-2-DjckuEAP.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/trash-2-DjckuEAP.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "9f3038763844bec5c1885827348a843d98e0a283bad893be250c84217184d22e",
+        "bytes": 329,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_b3a8751af2a6dc782cbde0f39dcaaccbad4ca7c224952f62cfa20b3bcb601d17",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/select-CK0AJCaJ.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/select-CK0AJCaJ.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "3623ead1a1f1f57844f780ad01cbb677e6d6017cb013b80150616babe081f7a1",
+        "bytes": 23850,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bb1f058a72cf262e8de6f832ecca4d098fa20db5b76a336ee0d5a44c794d927c",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/arrow-left-CwZ2GzE1.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/arrow-left-CwZ2GzE1.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e4b1df79dd8180f0fbf2ef32864dd6489ab069353333a0c3552d2326444630d1",
+        "bytes": 166,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bb6b6b7d32704c872b7ede07e00bb7a3ee8b905c6163202f4ce31c46d92b93f6",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/bubble-DvzjB2dA.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/bubble-DvzjB2dA.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d793121ef09f1e17077b748fbb022543e3677017cbfa96439f7c428b7361fe7c",
+        "bytes": 1655,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_bfccbcb082ea9029358dc199d331d218d4e6ba6637fa2091e4909d6b4a8b763f",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/locale-selector-DFIa06e-.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/locale-selector-DFIa06e-.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "67dfe5a4242bd9aee38d63c0289ac366f3ea5a5a6c148bb6c3d58340909c7de1",
+        "bytes": 3335,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c7af667bf7e78152805abefaa0caf03ac481c32c1723ebf6de3f22f0ac9a7e3c",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/settings-2-CuX3ZtdN.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/settings-2-CuX3ZtdN.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a0430092f821b54c8ce2a6a5dd791faae25bcf7f38268f0388c2fc4a6bda0dd8",
+        "bytes": 1644,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_c91b92c789869c2e1c29549d0929d5f10dd77f175870f0e3623cb8d4c591f631",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/access-ui-v26Iczzc.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/access-ui-v26Iczzc.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "c6d17fa68262d4851aee47e90260e3077920d7b64ba6eae35442330373c56792",
+        "bytes": 32909,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_d76e90fa990ea127aa7be35781fa1d46114f7dcf3c0f11ccc7051904e9213f95",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/video-Dqsy7oEq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/video-Dqsy7oEq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "fc0f6c4d131a54037109e5bcceb80001c2dc34248f2090f84b1b1ef2bd7a77d6",
+        "bytes": 249,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_dabe5253c0aece2be039a6aa230a154c5d30154e9ccde8ce3b70073e4cedfb09",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/_slug-d8OdknfK.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/_slug-d8OdknfK.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "d2a80e146eb69f2e7a01d40041a303ecf5f07dc3ceee944fe7849b843111a25e",
+        "bytes": 1449,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_dc68539cfb0aa6b62ae503799ad3cdcafb8ced7dfbb26915377c35c43e2c82b3",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/sheet-CT6jvlNl.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/sheet-CT6jvlNl.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "a407dce858e2d65043dd10a91c9948e1ae33661d35db78ab276ca48bc4011d9d",
+        "bytes": 76939,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_dccaec6d7195eda4df726b182cf24c17bf1afe9f522aae6fc1e3dd019952cece",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/megaphone-CmdoEvzg.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/megaphone-CmdoEvzg.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5ec2097b16f4b2f188660748588f8b36a0e9cb01a1697adbc3983aaa56fbb84b",
+        "bytes": 464,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_dcf95d1e24bb94e701990055e862858128be5e3916e8f956a449e0f5c42bf8cc",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/chevron-down-2VGSXPdi.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/chevron-down-2VGSXPdi.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "159eddc4928eef7c40cb3034e4af8b68a250d9f4ce8121617f08e37e5c0f8d98",
+        "bytes": 129,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e3da8756024f2fa9de555aea8604f47086dc91129523de9db9cd631d9a73c05a",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/refresh-ccw-DANB0SHq.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/refresh-ccw-DANB0SHq.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "4ff4913da4ac38699b85afd38cbec8e64b896d18608731ae6d05aa9a0a70cc38",
+        "bytes": 322,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e8a4c938d5d73c8cd3e095f86c863105907490335d8348df3e88a0ec4e9f48b1",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/dynamic-content-W-_LHs1Z.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/dynamic-content-W-_LHs1Z.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "f5a1fc9fb52b5bc469b96acb9b799a91870adfc7a493786067c21b70981549ae",
+        "bytes": 94522,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_e9e959bf7ac9f54f4041d5f2a3dd22de97f021c2711cb10a5a13b3bc2ee59d3d",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/codeblock-DnvBerYl.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/codeblock-DnvBerYl.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "5c530a09763475ef05f261cf4faaf34e0c8493c538c66ef5bdac9c67e875f748",
+        "bytes": 89954,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_ee26234aaf45f0000a9d2709404e21a36adab07eb5365d3c947152bc8cebdc11",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/index-bpRpM6F0.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/index-bpRpM6F0.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "035d2a47e020700690f62f2a24c4caa09fc4b217f3d11ba61689118051890b23",
+        "bytes": 547,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_f528a873891ed32c9b459b757686197cc3f29e6b7b6faa5b88f345eaffb01ac7",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/eye-CPCuedMf.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/eye-CPCuedMf.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "b64af83747d1cf28d959f4f2de4363492b1f3583a02789846609e90f80e7e1ee",
+        "bytes": 257,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    },
+    {
+      "source": {
+        "kind": "page-script",
+        "script_key": "scr_feedf5b64939d04c087ce3e5d9330668ff09d5581a72ae24675b0d0be07fd23d",
+        "frame_id": "D28FEC79E9EBCF04ABAFA5EAED53D1A6",
+        "is_module": true,
+        "language": "JavaScript",
+        "source_map_url": null
+      },
+      "url": "https://buble.ai/assets/home-why-Ulbfxipx.js",
+      "content": {
+        "state": "exported",
+        "relative_path": "origins/6333e63514a96b0e11f880db00ae5aacc42ca0e39370ff6688aae0d68249d376/assets/home-why-Ulbfxipx.js",
+        "layout": "url-path",
+        "layout_reason": null,
+        "sha256": "e7460bde9e1ef78279f07d4fbbc856351a294ffa33ace3126b027db8d78f0d35",
+        "bytes": 81868,
+        "media_type": "text/javascript",
+        "redacted": null,
+        "representation": "debugger-source-utf8"
+      }
+    }
+  ],
+  "limitations": [
+    "Observation starts when REA attaches; prior network and console activity is unavailable.",
+    "Raw network headers, bodies, cookies, storage values, console objects, and WebSocket payloads are never retained; explicitly requested primitive console text is retained verbatim, while payload captures retain value-free shapes.",
+    "Source maps are reported only as declarative URLs and are not fetched.",
+    "URL-less scripts and console events without an allowed source URL are excluded because their origin cannot be proven.",
+    "Only script bytes retained in this capture are exported. Sources are not refetched or executed, and a response or Debugger source does not prove execution.",
+    "Ordinary unambiguous URL paths preserve relative module layouts by origin, including case-distinct spellings. Query variants, exact path collisions, file/directory prefixes, inline sources, and unrepresentable paths are isolated. A case-distinct pair is isolated only when the destination filesystem cannot store both spellings; the record names that pair. Browser module relationships of isolated paths remain unknown.",
+    "Local JavaScript analysis does not implement browser import maps, root-relative URL resolution, remote URL loading, or browser runtime behavior. It may strip import queries and fragments; isolated variants are not canonical targets.",
+    "Source-map declarations are retained as metadata. No source maps or missing dependencies are fetched or reconstructed.",
+    "Captured response bytes are browser-decoded bytes; Debugger sources are the exposed text encoded as UTF-8. Redacted bytes are exported exactly as retained, and may no longer parse as JavaScript."
+  ]
+}

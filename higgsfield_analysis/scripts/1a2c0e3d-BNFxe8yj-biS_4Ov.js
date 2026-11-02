@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="acb10a00-b462-54da-b7d5-dea25e60e11f")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Lv as t,Sv as n,vv as r,xv as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";async function a(e,t){return fetch(r(`/jobs/${t}/cancel`),{method:`PUT`,headers:n(i(e))})}function o(){return(o=e((()=>{t()})))()}export{o as n,a as t};
+//# debugId=acb10a00-b462-54da-b7d5-dea25e60e11f
+
+//# chunkId=acb10a00-b462-54da-b7d5-dea25e60e11f

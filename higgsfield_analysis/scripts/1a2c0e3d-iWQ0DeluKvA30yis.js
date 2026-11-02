@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="a739dddb-59dd-513c-bf94-0e313a10f1b9")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e,t){return!(e==null||!e.startFrame||!e.endFrame&&t!==`grok_video_v15`)}function n(){return(n=e((()=>{})))()}export{t as n,n as t};
+//# debugId=a739dddb-59dd-513c-bf94-0e313a10f1b9
+
+//# chunkId=a739dddb-59dd-513c-bf94-0e313a10f1b9

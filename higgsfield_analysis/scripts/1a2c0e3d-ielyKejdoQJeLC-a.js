@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="43ca2ed6-d7a7-56f9-a493-7407f54a0c3a")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n;function r(){return(r=e((()=>{t=e=>`/weekly-challenge/${e}`,n=e=>`https://static.higgsfield.ai/public/weekly-challenge/${e}`})))()}export{n,t as r,r as t};
+//# debugId=43ca2ed6-d7a7-56f9-a493-7407f54a0c3a
+
+//# chunkId=43ca2ed6-d7a7-56f9-a493-7407f54a0c3a

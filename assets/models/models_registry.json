@@ -1,0 +1,72 @@
+{
+  "model_female_1": {
+    "id": "model_female_1",
+    "name": "Female 1: South Asian Editorial (20s)",
+    "gender": "Female",
+    "archetype": "Female 1: South Asian Female \u2014 Editorial Fashion (20s, dark wavy hair, athletic slender frame)",
+    "local_file": "assets/models/model_female_1.png",
+    "image_url": "/assets/models/model_female_1.png",
+    "description": "20s South Asian, dark wavy hair, olive skin tone, high-fashion editorial pose.",
+    "is_preset": true
+  },
+  "model_female_2": {
+    "id": "model_female_2",
+    "name": "Female 2: East Asian Minimalist (20s)",
+    "gender": "Female",
+    "archetype": "Female 2: East Asian Female \u2014 Minimalist Studio Lookbook (20s, sleek black hair, elegant posture)",
+    "local_file": "assets/models/model_female_2.png",
+    "image_url": "/assets/models/model_female_2.png",
+    "description": "20s East Asian, sleek center-parted black hair, clean porcelain look, studio posture.",
+    "is_preset": true
+  },
+  "model_female_3": {
+    "id": "model_female_3",
+    "name": "Female 3: Afro-Latina Commercial Glam (20s)",
+    "gender": "Female",
+    "archetype": "Female 3: Afro-Latina Female \u2014 Commercial High-Glam (20s, natural textured curls, glowing warm skin)",
+    "local_file": "assets/models/model_female_3.png",
+    "image_url": "/assets/models/model_female_3.png",
+    "description": "20s Afro-Latina, voluminous natural curls, radiant warm skin, vibrant look.",
+    "is_preset": true
+  },
+  "model_female_4": {
+    "id": "model_female_4",
+    "name": "Female 4: Mediterranean Chic (20s)",
+    "gender": "Female",
+    "archetype": "Female 4: Mediterranean Female \u2014 High-Fashion Minimalist (20s, natural olive skin, hazel eyes, honey wavy hair, athletic slender frame)",
+    "local_file": "assets/models/model_female_4.png",
+    "image_url": "/assets/models/model_female_4.png",
+    "description": "20s Mediterranean female, radiant olive skin, honey waves, versatile commercial and editorial look.",
+    "is_preset": true
+  },
+  "model_male_1": {
+    "id": "model_male_1",
+    "name": "Male 1: European Streetwear (20s)",
+    "gender": "Male",
+    "archetype": "Male 1: European Male \u2014 Contemporary Streetwear (20s, sharp jawline, short fade, athletic build)",
+    "local_file": "assets/models/model_male_1.png",
+    "image_url": "/assets/models/model_male_1.png",
+    "description": "20s European male, sharp jawline, textured short fade, athletic street style.",
+    "is_preset": true
+  },
+  "model_male_2": {
+    "id": "model_male_2",
+    "name": "Male 2: South Asian Tailored Classic (30s)",
+    "gender": "Male",
+    "archetype": "Male 2: South Asian Male \u2014 Classic Tailored Menswear (30s, groomed beard, sophisticated frame)",
+    "local_file": "assets/models/model_male_2.png",
+    "image_url": "/assets/models/model_male_2.png",
+    "description": "30s South Asian male, neatly groomed beard, warm brown skin tone, refined posture.",
+    "is_preset": true
+  },
+  "model_male_3": {
+    "id": "model_male_3",
+    "name": "Male 3: East Asian Urban Avant-Garde (20s)",
+    "gender": "Male",
+    "archetype": "Male 3: East Asian Male \u2014 Urban Avant-Garde (20s, textured undercut, lean minimalist aesthetic)",
+    "local_file": "assets/models/model_male_3.png",
+    "image_url": "/assets/models/model_male_3.png",
+    "description": "20s East Asian male, textured fringe hairstyle, lean athletic build, modern urban vibe.",
+    "is_preset": true
+  }
+}

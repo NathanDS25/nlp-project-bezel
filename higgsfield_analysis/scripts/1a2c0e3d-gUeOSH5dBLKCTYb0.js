@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="836038f2-613f-59af-8b7e-fb2ff04c9668")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Gt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{i as n,n as r,r as i}from"./1a2c0e3d-n3ftr_6_74TvhHfe.js";import{n as a,t as o}from"./1a2c0e3d-RgJwVD8WhkyzDHG-.js";import{n as s,t as c}from"./1a2c0e3d-Qq7hdBv4IFmebUhV.js";var l,u;function d(){return(d=e((()=>{o(),s(),i(),l=t(),{...n},a(n.id),u=r.map(e=>({...e,children:e.children.map(e=>{var t;return{...e,icon:a(e.id),badges:e.id===`soul-cinema-1-5-serega`?[...(t=e.badges)==null?[]:t,(0,l.jsx)(c,{},`testing`)]:e.badges}})}))})))()}export{d as n,u as t};
+//# debugId=836038f2-613f-59af-8b7e-fb2ff04c9668
+
+//# chunkId=836038f2-613f-59af-8b7e-fb2ff04c9668

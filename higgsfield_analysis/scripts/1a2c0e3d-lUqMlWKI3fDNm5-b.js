@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="8ba74f3a-f3ca-55f1-930f-821f19b6c95b")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{C as t,S as n,b as r,x as i}from"./1a2c0e3d-JtAFCZvNEGwO6uT3.js";import{a,r as o,t as s}from"./1a2c0e3d-0nMr0z9BXrV5qSbU.js";function c(e){return Array.isArray(e)&&e.every(e=>typeof e==`string`)}function l(e){if(p.ids.includes(e))return;let t=[...p.ids,e];p.ids=t,a(`local`,f,t)}function u(e){return i(p).ids.includes(e)}var d,f,p;function m(){return(m=e((()=>{n(),r(),s(),f=`ads-reviewed-brands`,p=t({ids:typeof window>`u`||(d=o(`local`,f,c))==null?[]:d})})))()}export{l as n,u as r,m as t};
+//# debugId=8ba74f3a-f3ca-55f1-930f-821f19b6c95b
+
+//# chunkId=8ba74f3a-f3ca-55f1-930f-821f19b6c95b

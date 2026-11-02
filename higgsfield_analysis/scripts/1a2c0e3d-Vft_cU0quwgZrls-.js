@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="943d56b8-1991-5f56-9255-0d0bbfded5de")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(){return`Exclusive Seedance 2.0 Mini`}function n(){return[t(),i]}function r(){return n().join(` & `)}var i;function a(){return(a=e((()=>{i=`Enhanced Seedance 2.0 Fast`})))()}export{a as n,r as t};
+//# debugId=943d56b8-1991-5f56-9255-0d0bbfded5de
+
+//# chunkId=943d56b8-1991-5f56-9255-0d0bbfded5de

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="f1d85cca-da64-52ee-ab58-dffc2ea6fe56")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{i as t,r as n}from"./1a2c0e3d-SDuiie8HPXjwPtn5.js";function r(e,n){return t(e)?e.publication_id===n.publication_id||e.root_folder_id===n.root_folder_id||n.project_id!=null&&e.project_id===n.project_id:!1}function i(e,t,n){if(!e||e.is_open_source===!1&&!e.publication_id)return[];let i=[],a=t.some(t=>r(t,e));a&&i.push(`top-50`);let o=e.can_receive_audience_choice_votes===!0||n.some(t=>r(t,e));return!a&&o&&i.push(`higgsfield-pick`),i}function a(){return(a=e((()=>{n()})))()}export{a as n,i as t};
+//# debugId=f1d85cca-da64-52ee-ab58-dffc2ea6fe56
+
+//# chunkId=f1d85cca-da64-52ee-ab58-dffc2ea6fe56

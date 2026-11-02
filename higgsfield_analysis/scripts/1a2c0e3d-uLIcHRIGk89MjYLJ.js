@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="f3e9176f-b6a6-5ecb-9dd3-1f175bac7ba7")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(e){return e===`hf_mult_replace_object`||e===`hf_mult_replace_object_flash`?`replace-objects`:`motion-control`}function n(e,t=`hf-mult-motion-control`){return t===`genjutsu-flash`?e===`replace-objects`?`hf_mult_replace_object_flash`:`hf_mult_motion_control_flash`:e===`replace-objects`?`hf_mult_replace_object`:`hf_mult_motion_control`}function r(){return(r=e((()=>{})))()}export{t as n,r,n as t};
+//# debugId=f3e9176f-b6a6-5ecb-9dd3-1f175bac7ba7
+
+//# chunkId=f3e9176f-b6a6-5ecb-9dd3-1f175bac7ba7

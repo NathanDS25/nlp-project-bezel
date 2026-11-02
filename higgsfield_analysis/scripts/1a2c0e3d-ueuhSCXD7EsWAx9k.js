@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="d2523e0d-bd53-51e5-ba82-10d2412916fb")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Fh as t,IC as n,LC as r,Nh as i}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function a(e){let{name:r,...i}=e,a=`track_fashion_factory_${r}`;t({event_type:a,event_properties:{env:n,...i}})}function o(){return(o=e((()=>{r(),i()})))()}export{a as n,o as t};
+//# debugId=d2523e0d-bd53-51e5-ba82-10d2412916fb
+
+//# chunkId=d2523e0d-bd53-51e5-ba82-10d2412916fb

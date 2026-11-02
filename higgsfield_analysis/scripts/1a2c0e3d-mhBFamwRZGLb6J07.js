@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="45e45e4f-79eb-5610-9aa6-4f206b374e6a")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";var t,n,r,i;function a(){return(a=e((()=>{t=3e5,n=18e5,r=`marketing-studio-hooks`,i=`marketing-studio-settings`})))()}export{a,t as i,i as n,n as r,r as t};
+//# debugId=45e45e4f-79eb-5610-9aa6-4f206b374e6a
+
+//# chunkId=45e45e4f-79eb-5610-9aa6-4f206b374e6a

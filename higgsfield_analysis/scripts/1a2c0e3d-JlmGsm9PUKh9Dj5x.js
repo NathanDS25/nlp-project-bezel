@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="b7361b3a-c7f3-5a98-a69d-fc790260ab69")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Lv as t,hv as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";function r(){return n(i).toString()}var i;function a(){return(a=e((()=>{t(),i=`/slack/install`})))()}export{a as n,r as t};
+//# debugId=b7361b3a-c7f3-5a98-a69d-fc790260ab69
+
+//# chunkId=b7361b3a-c7f3-5a98-a69d-fc790260ab69

@@ -1,0 +1,5 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="df694072-d2a5-57e4-9bf1-e34dbd3967d9")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{n as t,t as n}from"./1a2c0e3d-qX9iWA1cjA4BAZY_.js";function r(e,t){return n({visibleMessage:e,hiddenMessage:[`Generation settings selected by the user for this message. Apply these settings to generation requests for this turn; they replace generation settings from earlier turns.`,`In auto mode, choose the generation type and model from the request and use the selected aspect ratio when supported. In image or video mode, use the selected generation type, model, and parameters. If the request is incompatible with these settings, ask the user before substituting.`,JSON.stringify(t)].join(`
+`)})}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# debugId=df694072-d2a5-57e4-9bf1-e34dbd3967d9
+
+//# chunkId=df694072-d2a5-57e4-9bf1-e34dbd3967d9

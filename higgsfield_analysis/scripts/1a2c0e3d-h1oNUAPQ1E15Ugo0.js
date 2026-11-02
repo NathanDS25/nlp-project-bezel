@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="afdef10b-58c9-5119-9c20-8a7222596f63")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{O as t,t as n}from"./1a2c0e3d-R5v48vglb_E9qJBt.js";function r(e){switch(e){case`all`:return n.LibraryAll;case`image`:return n.LibraryImage;case`video`:return n.LibraryVideo;case`lipsync`:return n.LibraryLipsync;case`audio`:return n.LibraryAudio;case`marketing-studio`:return n.MarketingStudio;case`video-explainer`:return n.VideoExplainer;default:throw Error(`Unsupported feed type '${e}'`)}}function i(){return(i=e((()=>{t()})))()}export{i as n,r as t};
+//# debugId=afdef10b-58c9-5119-9c20-8a7222596f63
+
+//# chunkId=afdef10b-58c9-5119-9c20-8a7222596f63

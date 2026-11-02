@@ -1,0 +1,32 @@
+{
+  "models": [
+    "speak-veo-fast",
+    "speak-veo-preview"
+  ],
+  "camera_controls": [
+    "--canvas-activity-panel-header-width",
+    "--canvas-activity-panel-right-offset",
+    "--canvas-activity-panel-width",
+    "aria-expanded",
+    "basic-camera-controls",
+    "data-expand",
+    "data-expanded",
+    "epic-camera-controls",
+    "expand-image",
+    "japanese-show",
+    "qwen-camera-control",
+    "touch-pan",
+    "truck-ad"
+  ],
+  "endpoints": [],
+  "workflows": [],
+  "prompts_count": 17,
+  "sample_prompts": [
+    "a character that can start an attribute name, such as a letter, `$`, or `_`; whitespace before attributes; or the end of the tag",
+    "a character that can start a name, such as a letter, `$`, or `_`",
+    "A React form was unexpectedly submitted. If you called form.submit() manually, consider using form.requestSubmit() instead. If you\\\\",
+    "a character that can start an attribute name, such as a letter, `$`, or `_`; `=` to initialize a value; or the end of the tag",
+    "A string literal cannot be used as an exported binding without `from`.",
+    "a name character such as letters, digits, `$`, or `_`; whitespace before attributes; or the end of the tag"
+  ]
+}

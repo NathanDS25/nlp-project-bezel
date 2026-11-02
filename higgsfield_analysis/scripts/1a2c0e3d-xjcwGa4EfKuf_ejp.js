@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="73cdb958-258e-5610-bd51-3add5d849ab6")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Bu as t,Mi as n,Ru as r,ji as i,zu as a}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{i as o,r as s}from"./1a2c0e3d-o6nP7IZAY4Cse7In.js";function c(e,t){return e===`genjutsu-flash`?{videoSrc:r.video,posterSrc:r.poster}:u[t]}function l(e){return i({src:e,width:384})}var u;function d(){return(d=e((()=>{o(),n(),t(),u={"motion-control":{videoSrc:a.video,posterSrc:a.poster},"replace-objects":s(`replace`)}})))()}export{c as n,d as r,l as t};
+//# debugId=73cdb958-258e-5610-bd51-3add5d849ab6
+
+//# chunkId=73cdb958-258e-5610-bd51-3add5d849ab6

@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="aa96a33c-d7e3-5ae5-bc14-7acce5df1e34")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{S_ as t,w_ as n}from"./1a2c0e3d-hu4uXBiL-IQJn9o2.js";import{OD as r,kD as i}from"./1a2c0e3d-mk3R8kDwGNHAPqvp.js";function a(e,t,n){return e&&{...e,pages:e.pages.map(e=>({...e,items:e.items.map(e=>e.id===t?{...e,...n}:e)}))}}function o(e,n,r,o,s){let c=t(),l={ipCheckFinished:r,ipStatus:o,isFaceDetected:s};c.setQueriesData({queryKey:i.listPrefix(e,`image`)},e=>a(e,n,l)),c.setQueriesData({queryKey:[e,`video-list`]},e=>a(e,n,l))}function s(){return(s=e((()=>{r(),n()})))()}export{o as n,s as t};
+//# debugId=aa96a33c-d7e3-5ae5-bc14-7acce5df1e34
+
+//# chunkId=aa96a33c-d7e3-5ae5-bc14-7acce5df1e34

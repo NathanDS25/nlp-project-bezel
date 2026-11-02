@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="47c9d228-c4a5-53c0-831d-02c1adab5533")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";import{a as n,i as r,n as i,r as a}from"./1a2c0e3d-0qRIFOejccOnzCQr.js";function o(){let e=a(),t=r(),i=n();return(0,s.useMemo)(()=>{var n;return e===`clerk`?null:{isLoaded:!0,isSignedIn:!!t.isSignedIn,userId:(n=t.userId)==null?null:n,user:i.user?{id:i.user.id}:null,getToken:()=>t.getToken()}},[t,e,i])}var s;function c(){return(c=e((()=>{s=t(),i()})))()}export{o as n,c as t};
+//# debugId=47c9d228-c4a5-53c0-831d-02c1adab5533
+
+//# chunkId=47c9d228-c4a5-53c0-831d-02c1adab5533

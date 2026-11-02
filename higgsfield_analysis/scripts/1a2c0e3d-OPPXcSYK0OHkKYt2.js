@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="2b6441dc-a10a-5677-a0d1-ce4515eacd90")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{a as t,i as n}from"./1a2c0e3d-gHciiMsYj11kIrQZ.js";async function r(e,t,r={}){var i;let a=new URLSearchParams({limit:String((i=r.limit)==null?30:i)});return r.cursor&&a.set(`cursor`,r.cursor),(await n(`/api/layer-projects/${encodeURIComponent(e)}/versions?${a}`,t)).json()}async function i(e,t,r){return(await n(`/api/layer-projects/${encodeURIComponent(e)}/versions/${encodeURIComponent(t)}`,r)).json()}function a(){return(a=e((()=>{t()})))()}export{a as n,r,i as t};
+//# debugId=2b6441dc-a10a-5677-a0d1-ce4515eacd90
+
+//# chunkId=2b6441dc-a10a-5677-a0d1-ce4515eacd90

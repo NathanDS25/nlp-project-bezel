@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="f8f01e95-ab77-567e-8f30-a7649f0948a4")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";import{Kt as t}from"./1a2c0e3d-qkEQVTOfhOQDK3h0.js";function n(){let e=(0,r.useId)(),[t,n]=(0,r.useState)(!1);return(0,r.useEffect)(()=>{if(!a)return;let t=t=>{t.detail!==e&&n(!1)};return a.addEventListener(i,t),()=>a.removeEventListener(i,t)},[e]),{open:t,onOpenChange:(0,r.useCallback)(t=>{n(t),t&&(a==null||a.dispatchEvent(new CustomEvent(i,{detail:e})))},[e])}}var r,i,a;function o(){return(o=e((()=>{r=t(),i=`settings-select-open`,a=typeof EventTarget<`u`?new EventTarget:null})))()}export{n,o as t};
+//# debugId=f8f01e95-ab77-567e-8f30-a7649f0948a4
+
+//# chunkId=f8f01e95-ab77-567e-8f30-a7649f0948a4

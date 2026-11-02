@@ -1,0 +1,4 @@
+!function(){try{var e="undefined"!=typeof window?window:"undefined"!=typeof global?global:"undefined"!=typeof globalThis?globalThis:"undefined"!=typeof self?self:{},n=(new e.Error).stack;n&&(e._posthogChunkIds=e._posthogChunkIds||{},e._posthogChunkIds[n]="0ee2bd6e-1057-5415-8dda-00a4730743e8")}catch(e){}}();import{n as e}from"./1a2c0e3d-WT7-FZ22RLi5rJnW.js";function t(){document.dispatchEvent(new Event(n))}var n;function r(){return(r=e((()=>{n=`credit-reset-bonus:open`})))()}export{r as n,t as r,n as t};
+//# debugId=0ee2bd6e-1057-5415-8dda-00a4730743e8
+
+//# chunkId=0ee2bd6e-1057-5415-8dda-00a4730743e8
